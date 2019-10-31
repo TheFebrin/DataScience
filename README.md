@@ -10,7 +10,7 @@ Use this in case https://nbviewer.jupyter.org.
 
 ## Table of Contents
 * [Supervised Learning](#supervised-learning)
-  + [K Nearest Neighbours (KNN)](#knn)
+  + [K Nearest Neighbours (KNN)](#k-nearest-neighbours-(knn))
 * [Unsupervised Learning](#unsupervised-learning)
 * [Reinforcement Learning](#reinforcement-learning)
 * [Deep Learning](#deep-learning)
@@ -18,7 +18,7 @@ Use this in case https://nbviewer.jupyter.org.
 
 ### Supervised Learning
 * [K Nearest Neighbours (KNN)](machine-learning/projects/knn)
-  +[KNN or Iris data set](machine-learning/projects/knn/knn_iris.ipynb)
+  + [KNN or Iris data set](projects/knn/knn_iris.ipynb)
 ### Unsupervised Learning
 
 ### Reinforcement Learning
