@@ -17,8 +17,8 @@ Use this in case https://nbviewer.jupyter.org.
 
 
 ### Supervised Learning
-* [K Nearest Neighbours (KNN)](machine-learning/projects/knn)
-  + [KNN or Iris data set](projects/knn/knn_iris.ipynb)
+* [K Nearest Neighbours (KNN)](Projects/KNN)
+  + [KNN or Iris data set](Projects/KNN/KNN_iris.ipynb)
 ### Unsupervised Learning
 
 ### Reinforcement Learning
