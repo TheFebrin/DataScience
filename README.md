@@ -12,6 +12,7 @@ Use this in case https://nbviewer.jupyter.org.
 * [Supervised Learning](#supervised-learning)
   + [K Nearest Neighbours (KNN)](Projects/KNN)
 * [Unsupervised Learning](#unsupervised-learning)
+  + [K Means](Projects/KMEANS)
 * [Reinforcement Learning](#reinforcement-learning)
 * [Deep Learning](#deep-learning)
 
@@ -21,7 +22,8 @@ Use this in case https://nbviewer.jupyter.org.
   + [KNN on Iris data set](Projects/KNN/KNN_iris.ipynb)
 
 ### Unsupervised Learning
-
+* [K Means](Projects/KNN)
+  + [K Means on Iris data set](Projects/KMEANS/KMEANS_iris.ipynb)
 ### Reinforcement Learning
 
 ### Deep Learning
