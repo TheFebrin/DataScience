@@ -22,7 +22,7 @@ Use this in case https://nbviewer.jupyter.org.
   + [KNN on Iris data set](Projects/KNN/KNN_iris.ipynb)
 
 ### Unsupervised Learning
-* [K Means](Projects/KNN)
+* [K Means](Projects/KMEANS)
   + [K Means on Iris data set](Projects/KMEANS/KMEANS_iris.ipynb)
 ### Reinforcement Learning
 
