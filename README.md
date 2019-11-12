@@ -24,6 +24,7 @@ Use this in case https://nbviewer.jupyter.org.
 ### Unsupervised Learning
 * [K Means](Projects/KMEANS)
   + [K Means on Iris data set](Projects/KMEANS/KMEANS_iris.ipynb)
+  + [Image compression using K Means](Projects/KMEANS/Image_compression.ipynb)
 ### Reinforcement Learning
 
 ### Deep Learning
