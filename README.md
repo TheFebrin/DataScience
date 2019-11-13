@@ -19,11 +19,11 @@ Use this in case https://nbviewer.jupyter.org.
 
 ### Supervised Learning
 * [K Nearest Neighbours (KNN)](Projects/KNN)
-  + [KNN on Iris data set](Projects/KNN/KNN_iris.ipynb)
+  + [KNN on Iris Flower Dataset](Projects/KNN/KNN_iris.ipynb)
 
 ### Unsupervised Learning
 * [K Means](Projects/KMEANS)
-  + [K Means on Iris data set](Projects/KMEANS/KMEANS_iris.ipynb)
+  + [K Means on Iris Flower Dataset and Gaussian Mixtures](Projects/KMEANS/KMEANS_iris.ipynb)
   + [Image compression using K Means](Projects/KMEANS/Image_compression.ipynb)
 ### Reinforcement Learning
 
