@@ -20,7 +20,7 @@ Use this in case https://nbviewer.jupyter.org.
 ### Supervised Learning
 * [K Nearest Neighbours (KNN)](Projects/KNN)
   + [KNN on Iris Flower Dataset](Projects/KNN/KNN_iris.ipynb)
-  + [KNN on digits (MNIST)](Projects/KNN/KNN_mnist.ipynb)
+  + [KNN on digits](Projects/KNN/KNN_digits.ipynb)
 
 ### Unsupervised Learning
 * [K Means](Projects/KMEANS)
