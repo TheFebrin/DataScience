@@ -12,10 +12,14 @@ Use this in case https://nbviewer.jupyter.org.
 ## Table of Contents
 * [Supervised Learning](#supervised-learning)
   + [K Nearest Neighbours (KNN)](Projects/KNN)
+  + [Decision Trees](Projects/DECISION_TREES)
+  + [Regression](Projects/REGRESSION)
+  + [Language recognition](Projects/LANGUAGE_RECOGNITION)
 * [Unsupervised Learning](#unsupervised-learning)
   + [K Means](Projects/KMEANS)
 * [Reinforcement Learning](#reinforcement-learning)
 * [Deep Learning](#deep-learning)
+* [Other](#other)
 
 
 ### Supervised Learning
