@@ -1,8 +1,9 @@
 # Machine-Learning
 
 ## About
-Machine Learning course from University of Wroclaw
-and Python implementations of major algorithms.
+Machine Learning course from University of Wroclaw, <br/>
+Python implementations of some major algorithms, <br/>
+and some other interesting things. <br/>
 
 ## Notebooks issue
 Sometimes jupyter notebooks doesn't render.
