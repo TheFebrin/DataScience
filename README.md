@@ -55,8 +55,3 @@ Use this in case https://nbviewer.jupyter.org.
 ### Reinforcement Learning
 
 ### Deep Learning
-
-
-### Other
-* [Kalman filter](Projects/KALMAN_FILTER/kalman_filter.ipynb)
-* [Association Rules APRIORI algorithm](Projects/APRIORI/APRIORI.ipynb)
