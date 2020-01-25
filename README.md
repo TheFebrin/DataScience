@@ -15,11 +15,15 @@ Use this in case https://nbviewer.jupyter.org.
   + [Decision Trees](Projects/DECISION_TREES)
   + [Regression](Projects/REGRESSION)
   + [Language recognition](Projects/LANGUAGE_RECOGNITION)
+  + [SVM](Projects/SVM)
 * [Unsupervised Learning](#unsupervised-learning)
   + [K Means](Projects/KMEANS)
 * [Reinforcement Learning](#reinforcement-learning)
 * [Deep Learning](#deep-learning)
 * [Other](#other)
+  + [Kalman filter](Projects/KALMAN_FILTER/kalman_filter.ipynb)
+  + [Association Rules APRIORI algorithm](Projects/APRIORI/APRIORI.ipynb)
+  + [PCA on faces/digits/mixtures](Projects/PCA)
 
 
 ### Supervised Learning
@@ -40,6 +44,9 @@ Use this in case https://nbviewer.jupyter.org.
 * [Language recognition](Projects/LANGUAGE_RECOGNITION)
   + [Naive Bayes Classifier](Projects/LANGUAGE_RECOGNITION/naive_bayes_classifier.ipynb)
 
+* [SVM](Projects/SVM)
+  + [SVM on](Projects/LANGUAGE_RECOGNITION/svm.ipynb)
+
 ### Unsupervised Learning
 * [K Means](Projects/KMEANS)
   + [K Means on Iris Flower Dataset and Gaussian Mixtures](Projects/KMEANS/KMEANS_iris.ipynb)
@@ -52,3 +59,4 @@ Use this in case https://nbviewer.jupyter.org.
 
 ### Other
 * [Kalman filter](Projects/KALMAN_FILTER/kalman_filter.ipynb)
+* [Association Rules APRIORI algorithm](Projects/APRIORI/APRIORI.ipynb)
