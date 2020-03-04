@@ -1,9 +1,13 @@
-# Machine-Learning
+# Data Science
 
 ## About
-Machine Learning course from University of Wroclaw, <br/>
-Python implementations of some major algorithms, <br/>
-and some other interesting things. <br/>
+Stuff from courses at University of Wroclaw:
+  * Machine Learning
+  * Data Mining
+  * Deep Learning and Neural Networks
+  * Evolutionary Algorithms
+
+And my own projects.
 
 ## Notebooks issue
 Sometimes jupyter notebooks doesn't render.
@@ -24,6 +28,9 @@ Use this in case https://nbviewer.jupyter.org.
   + [Kalman filter](Projects/KALMAN_FILTER/kalman_filter.ipynb)
   + [Association Rules APRIORI algorithm](Projects/APRIORI/APRIORI.ipynb)
   + [PCA on faces/digits/mixtures](Projects/PCA)
+* [Projects](#projects)
+  + [Sentiment analysis](https://github.com/TheFebrin/Sentiment-Analysis)
+  + [Stock market predictions using limit order books](https://github.com/TheFebrin/LimitOrderBook)
 
 
 ### Supervised Learning
