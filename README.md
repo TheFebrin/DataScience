@@ -14,6 +14,7 @@ Sometimes jupyter notebooks doesn't render.
 Use this in case https://nbviewer.jupyter.org.
 
 ## Table of Contents
+* [Tensorflow Workshops](NN-DL\TensorflowWorkshop)
 * [Supervised Learning](#supervised-learning)
   + [K Nearest Neighbours (KNN)](Projects/KNN)
   + [Decision Trees](Projects/DECISION_TREES)
