@@ -25,6 +25,10 @@ Use this in case https://nbviewer.jupyter.org.
   + [K Means](Projects/KMEANS)
 * [Reinforcement Learning](#reinforcement-learning)
 * [Deep Learning](#deep-learning)
+* [Evolutionary Algorithms](#evolutionary-algorithms)
+    + [Simulated annealing on](#)
+    + [PBIL](#)
+    + [Simple genetic algorithm (SGA) on TSP Berlin52](#)
 * [Other](#other)
   + [Kalman filter](Projects/KALMAN_FILTER/kalman_filter.ipynb)
   + [Association Rules APRIORI algorithm](Projects/APRIORI/APRIORI.ipynb)
@@ -53,7 +57,7 @@ Use this in case https://nbviewer.jupyter.org.
   + [Naive Bayes Classifier](Projects/LANGUAGE_RECOGNITION/naive_bayes_classifier.ipynb)
 
 * [SVM](Projects/SVM)
-  + [SVM on](Projects/LANGUAGE_RECOGNITION/svm.ipynb)
+  + [SVM on iris](Projects/LANGUAGE_RECOGNITION/svm_iris.ipynb)
 
 ### Unsupervised Learning
 * [K Means](Projects/KMEANS)
@@ -63,3 +67,5 @@ Use this in case https://nbviewer.jupyter.org.
 ### Reinforcement Learning
 
 ### Deep Learning
+
+### Evolutionary Algorithms
