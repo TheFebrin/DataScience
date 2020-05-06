@@ -16,7 +16,7 @@ Use this in case https://nbviewer.jupyter.org.
 ## Table of Contents
 ### [Tensorflow Workshops](NN-DL/TensorflowWorkshop)
 
-### [Supervised Learning Algorithms](#supervised-learning)
+### Supervised Learning Algorithms
 * [K Nearest Neighbours (KNN)](Projects/KNN)
   + [KNN on Iris Flower Dataset](Projects/KNN/KNN_iris.ipynb)
   + [KNN on digits](Projects/KNN/KNN_digits.ipynb)
@@ -37,7 +37,7 @@ Use this in case https://nbviewer.jupyter.org.
 * [SVM](Projects/SVM)
   + [SVM on iris](Projects/LANGUAGE_RECOGNITION/svm_iris.ipynb)
 
-### [Unsupervised Learning Algorithms](#unsupervised-learning)
+### Unsupervised Learning Algorithms
 * [K Means](Projects/KMEANS)
     + [K Means on Iris Flower Dataset and Gaussian Mixtures](Projects/KMEANS/KMEANS_iris.ipynb)
     + [Image color compression](Projects/KMEANS/Image_compression.ipynb)
@@ -56,11 +56,11 @@ Use this in case https://nbviewer.jupyter.org.
 
 <!-- * [Reinforcement Learning](#reinforcement-learning) -->
 
-### [Other](#other)
+### Other
   + [Kalman filter](Projects/KALMAN_FILTER/kalman_filter.ipynb)
   + [Association Rules APRIORI algorithm](Projects/APRIORI/APRIORI.ipynb)
   + [PCA on faces/digits/mixtures](Projects/PCA)
 
-### [Projects](#projects)
+### Projects
   + [Sentiment analysis](https://github.com/TheFebrin/Sentiment-Analysis)
   + [Stock market predictions using limit order books](https://github.com/TheFebrin/LimitOrderBook)
