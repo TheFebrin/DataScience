@@ -169,16 +169,15 @@ def main() -> None:
     poleval_dataset = read_poleval_dataset()
     sitcoms_dataset = read_sitcoms_dataset()
 
-    if st.checkbox('Vectorize and save datset'):
-        vectorize_and_save(
-            dataset=sitcoms_dataset,
-            model=herbert_model,
-            tokenizer=herbert_tokenizer,
-            path_and_filename='data_encoded/sitcoms/encoded'
-        )
-    st.text('DONE!!!')
-    st.stop()
-    
+    # if st.checkbox('Vectorize and save datset'):
+    #     vectorize_and_save(
+    #         dataset=sitcoms_dataset,
+    #         model=herbert_model,
+    #         tokenizer=herbert_tokenizer,
+    #         path_and_filename='data_encoded/sitcoms/encoded'
+    #     )
+    # st.text('DONE!!!')
+    # st.stop()
     
     dataset: List[Tuple[str, str]] = mkqa_dataset + dyk_dataset + poleval_dataset + sitcoms_dataset
     st.text(f'Dataset size: {len(dataset)}')
@@ -198,9 +197,9 @@ def main() -> None:
         filename="poleval/encoded"
     )
     
-    encoded_trailer_park_boys_data = join_encoding(
-        to_index=1700,
-        filename="trailer_park_boys/encoded"
+    sitcoms_data = join_encoding(
+        to_index=12600,
+        filename="sitcoms/encoded"
     )
     
     N_NEIGHBORS: int = st.slider('select k neighbours', 1, 10, 5)
@@ -208,12 +207,12 @@ def main() -> None:
         encoded_mkqa_data.detach().numpy(),
         encoded_dyk_data.detach().numpy(),
         encoded_poleval_data.detach().numpy(),
-        encoded_trailer_park_boys_data.detach().numpy(),
+        sitcoms_data.detach().numpy(),
     ]
     y = [
         i for i in range(
-            encoded_mkqa_data.shape[0] + encoded_dyk_data.shape[0] + encoded_poleval_data.shape[0] + 
-            encoded_trailer_park_boys_data.shape[0]
+            encoded_mkqa_data.shape[0] + encoded_dyk_data.shape[0] 
+            + encoded_poleval_data.shape[0] + sitcoms_data.shape[0]
         )
     ]
     neigh = KNeighborsClassifier(n_neighbors=N_NEIGHBORS, metric='cosine')
