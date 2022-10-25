@@ -202,19 +202,36 @@ def main() -> None:
         filename="sitcoms/encoded"
     )
     
-    N_NEIGHBORS: int = st.slider('select k neighbours', 1, 10, 5)
-    X = np.r_[
-        encoded_mkqa_data.detach().numpy(),
-        encoded_dyk_data.detach().numpy(),
-        encoded_poleval_data.detach().numpy(),
-        sitcoms_data.detach().numpy(),
-    ]
+    dataset_dict = {
+        "mkqa" : encoded_mkqa_data.detach().numpy(),
+         "dyk" : encoded_dyk_data.detach().numpy(),
+         "poleval" : encoded_poleval_data.detach().numpy(),
+         "sitcoms" : sitcoms_data.detach().numpy()
+    }
+
+    # make container with 2 columns in width ratio 4/3
+    col1, col2 = st.columns([4,3]) 
+
+    with col1:
+        N_NEIGHBORS: int = st.slider('select k neighbours', 1, 10, 5)
+    with col2:
+        selected_datasets = st.multiselect(
+            "select one or more dataset",
+            ["mkqa", "dyk", "poleval", "sitcoms"],
+            )
+        
+    # default selected option (if none selected)
+    if len(selected_datasets) == 0:
+        selected_datasets = ["mkqa"]
+        
+    X = np.vstack([dataset_dict[name] for name in selected_datasets])
+
     y = [
         i for i in range(
-            encoded_mkqa_data.shape[0] + encoded_dyk_data.shape[0] 
-            + encoded_poleval_data.shape[0] + sitcoms_data.shape[0]
+            sum([dataset_dict[name].shape[0] for name in selected_datasets])
         )
     ]
+
     neigh = KNeighborsClassifier(n_neighbors=N_NEIGHBORS, metric='cosine')
     neigh.fit(X, y)
     
