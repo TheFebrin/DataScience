@@ -1,0 +1,5463 @@
+﻿1
+00:01:44,479 --> 00:01:46,773
+"Pułapki"?
+
+2
+00:02:09,671 --> 00:02:12,674
+Tam jesteś, kochasiu.
+
+3
+00:02:25,228 --> 00:02:26,396
+Co takiego?
+
+4
+00:02:26,896 --> 00:02:28,064
+Wziąć książkę?
+
+5
+00:02:28,356 --> 00:02:29,607
+Chętnie to zrobię.
+
+6
+00:02:33,737 --> 00:02:35,739
+W końcu jest moja.
+
+7
+00:02:35,822 --> 00:02:38,408
+Nareszcie jesteś moja.
+
+8
+00:02:45,707 --> 00:02:48,501
+Dobra. Walczmy. Gołe pięści.
+
+9
+00:02:48,585 --> 00:02:50,754
+Uderz, chudzielcu. Nie boję się ciebie.
+
+10
+00:02:57,844 --> 00:02:59,596
+Nie masz mocniejszej karty?
+
+11
+00:02:59,679 --> 00:03:01,181
+Spływaj.
+
+12
+00:03:04,934 --> 00:03:06,269
+Tylko na to cię stać?
+
+13
+00:03:28,458 --> 00:03:30,168
+AUTO
+PIRAT
+
+14
+00:03:35,382 --> 00:03:37,842
+Rety, termin zwrotu dawno minął.
+
+15
+00:03:40,595 --> 00:03:43,640
+"Dawno temu na dnie morza
+
+16
+00:03:43,682 --> 00:03:46,893
+"było sobie miasteczko Bikini Dolne.
+
+17
+00:03:46,976 --> 00:03:50,605
+<i>"W tym miasteczku była knajpka
+Pod Tłustym Krabem,</i>
+
+18
+00:03:50,647 --> 00:03:54,651
+<i>"gdzie schodzili się mieszkańcy,
+by jeść kraboburgery.</i>
+
+19
+00:03:55,318 --> 00:03:58,780
+<i>"W każdej spelunie ktoś pichci,
+a tu pichcił gość</i>
+
+20
+00:03:58,822 --> 00:04:02,075
+<i>"imieniem SpongeBob Kanciastoporty".</i>
+
+21
+00:04:03,618 --> 00:04:05,745
+<i>Kto ananasowy pod wodą ma dom?</i>
+
+22
+00:04:05,829 --> 00:04:07,539
+<i>SpongeBob Kanciastoporty!</i>
+
+23
+00:04:07,622 --> 00:04:08,707
+<i>Gąbczasto-kanciasty i żółty jak on!</i>
+
+24
+00:04:08,790 --> 00:04:09,833
+Przestańcie.
+
+25
+00:04:09,874 --> 00:04:11,584
+<i>SpongeBob Kanciastoporty!</i>
+
+26
+00:04:11,668 --> 00:04:13,670
+<i>Kto grzywy i fale
+ze śmiechu chce gryźć?</i>
+
+27
+00:04:13,753 --> 00:04:15,839
+<i>SpongeBob Kanciastoporty!</i>
+
+28
+00:04:15,880 --> 00:04:17,841
+<i>Ten jak ryba w wodzie
+poczuje się dziś!</i>
+
+29
+00:04:17,882 --> 00:04:19,884
+<i>SpongeBob Kanciastoporty!</i>
+
+30
+00:04:20,176 --> 00:04:21,177
+Cisza!
+
+31
+00:04:25,181 --> 00:04:28,351
+Od gadających ptaków gorsze są tylko...
+
+32
+00:04:28,560 --> 00:04:29,686
+Śpiewające ptaki!
+
+33
+00:04:29,769 --> 00:04:31,896
+Dobra, obiecuję nie
+
+34
+00:04:31,980 --> 00:04:33,356
+<i>śpi-e-wać</i>
+
+35
+00:04:35,233 --> 00:04:36,359
+Spójrz na nas.
+
+36
+00:04:36,443 --> 00:04:38,945
+On naprawdę nie cierpi śpiewu ptaków.
+
+37
+00:04:40,030 --> 00:04:42,741
+Czytaj dalej, panie Piracie, proszę.
+
+38
+00:04:43,742 --> 00:04:46,161
+Podejdźcie bliżej, żeby lepiej słyszeć.
+
+39
+00:04:46,578 --> 00:04:48,830
+-Zacznij już czytać.
+-Nie tak blisko!
+
+40
+00:04:49,205 --> 00:04:50,290
+Dobrze.
+
+41
+00:04:51,750 --> 00:04:53,043
+Jedziemy dalej.
+
+42
+00:04:55,211 --> 00:04:59,049
+SpongeBob kochał swoją
+pracę kucharza
+
+43
+00:05:00,133 --> 00:05:01,843
+<i>najbardziej na świecie.</i>
+
+44
+00:05:02,093 --> 00:05:04,304
+<i>A to nie przelewki,</i>
+
+45
+00:05:04,596 --> 00:05:06,890
+<i>bo on kochał wszystkich i wszystko!</i>
+
+46
+00:05:07,140 --> 00:05:09,517
+<i>Kochał swojego ślimaka Gacusia.</i>
+
+47
+00:05:09,559 --> 00:05:11,227
+<i>Swojego przyjaciela Patryka.</i>
+
+48
+00:05:13,396 --> 00:05:15,357
+<i>Kochał puszczać bańki</i>
+
+49
+00:05:16,316 --> 00:05:18,360
+<i>i łowić meduzy.</i>
+
+50
+00:05:18,777 --> 00:05:22,655
+<i>Kochał smażyć kraboburgery
+dla mieszkańców Bikini Dolnego</i>
+
+51
+00:05:22,739 --> 00:05:25,367
+<i>tak bardzo, jak oni kochali je jeść.</i>
+
+52
+00:05:25,408 --> 00:05:26,910
+<i>Możecie spytać,</i>
+
+53
+00:05:26,951 --> 00:05:29,996
+<i>dlaczego tak kochali
+te ociekające tłuszczem kanapki?</i>
+
+54
+00:05:30,080 --> 00:05:32,415
+<i>Dlaczego jedli je na śniadanie,</i>
+
+55
+00:05:32,832 --> 00:05:33,958
+<i>na obiad</i>
+
+56
+00:05:34,834 --> 00:05:36,002
+<i>i na kolację</i>
+
+57
+00:05:36,086 --> 00:05:38,713
+<i>mimo ostrzeżeń lekarzy?</i>
+
+58
+00:05:38,755 --> 00:05:40,340
+Został mu najwyżej tydzień.
+
+59
+00:05:40,423 --> 00:05:42,759
+Och, Haroldzie!
+
+60
+00:05:45,595 --> 00:05:47,180
+<i>To była tajemnica.</i>
+
+61
+00:05:47,347 --> 00:05:49,057
+<i>Nikt nie wiedział,</i>
+
+62
+00:05:49,099 --> 00:05:51,768
+<i>co sprawia, że są takie smaczne.</i>
+
+63
+00:05:51,810 --> 00:05:53,436
+<i>Prawdę mówiąc,
+nikogo to nie obchodziło.</i>
+
+64
+00:05:53,520 --> 00:05:55,563
+<i>Z wyjątkiem Planktona.</i>
+
+65
+00:05:55,605 --> 00:05:58,024
+<i>Plankton miał restaurację
+przy tej samej ulicy,</i>
+
+66
+00:05:58,108 --> 00:05:59,275
+<i>na przeciwko Tłustego Kraba,</i>
+
+67
+00:05:59,359 --> 00:06:02,529
+<i>ale nikt tam nie przychodził,
+bo jedzenie było wstrętne.</i>
+
+68
+00:06:02,612 --> 00:06:04,322
+Musiałeś to powiedzieć?
+
+69
+00:06:06,074 --> 00:06:09,452
+<i>Plankton ze wszystkich sił
+starał się skraść przepis.</i>
+
+70
+00:06:10,453 --> 00:06:12,747
+SpongeBob, proszę, dogadajmy się!
+
+71
+00:06:12,789 --> 00:06:15,959
+<i>A SpongeBob pilnie go strzegł.</i>
+
+72
+00:06:16,543 --> 00:06:18,795
+<i>Ale dzisiaj sprawy</i>
+
+73
+00:06:20,630 --> 00:06:22,048
+<i>potoczą się inaczej.</i>
+
+74
+00:06:23,967 --> 00:06:25,635
+Dzień dobry, SpongeBob!
+
+75
+00:06:25,719 --> 00:06:26,845
+Dzień dobry, Patryku!
+
+76
+00:06:26,928 --> 00:06:28,722
+Chcesz kraboburgera
+na drugie śniadanie?
+
+77
+00:06:28,805 --> 00:06:30,473
+Kupię dziś dwa.
+
+78
+00:06:30,557 --> 00:06:33,768
+Jeden dla mnie
+i jeden dla przyjaciela.
+
+79
+00:06:33,810 --> 00:06:35,687
+Znam go?
+
+80
+00:06:35,770 --> 00:06:37,647
+"Doskonale, SpongeBob".
+
+81
+00:06:40,400 --> 00:06:42,110
+Smacznego, brzuszku Patryka.
+
+82
+00:06:47,991 --> 00:06:51,119
+SOS TATARSKI
+
+83
+00:06:52,620 --> 00:06:53,747
+Trzynaście,
+
+84
+00:06:53,997 --> 00:06:55,999
+czternaście, piętnaście...
+
+85
+00:06:56,041 --> 00:06:59,419
+Dopiero w czwartek
+mieli nam dostarczyć sos tatarski.
+
+86
+00:06:59,502 --> 00:07:00,712
+Sos...
+
+87
+00:07:01,838 --> 00:07:02,922
+Tatarski?
+
+88
+00:07:03,006 --> 00:07:04,382
+Strzał w dziesiątkę!
+
+89
+00:07:07,927 --> 00:07:09,012
+Plankton!
+
+90
+00:07:09,137 --> 00:07:11,681
+Chce wojny na przyprawy?
+
+91
+00:07:11,931 --> 00:07:13,516
+Mówi kapitan.
+
+92
+00:07:13,558 --> 00:07:15,935
+Proszę usiąść prosto i zapiąć pasy,
+
+93
+00:07:16,019 --> 00:07:18,605
+bo zbliżamy się do celu.
+
+94
+00:07:21,900 --> 00:07:24,569
+Patryku, ładuj ziemniaki.
+
+95
+00:07:25,070 --> 00:07:26,571
+Gotowane czy smażone?
+
+96
+00:07:26,654 --> 00:07:28,490
+Surowe!
+
+97
+00:07:28,531 --> 00:07:29,699
+Tak jest!
+
+98
+00:07:30,533 --> 00:07:32,660
+Działo gotowe!
+
+99
+00:07:33,536 --> 00:07:36,831
+Nie martw się, przepisiku,
+jesteś nabity w butelkę
+
+100
+00:07:36,873 --> 00:07:38,166
+i bezpieczny.
+
+101
+00:07:39,709 --> 00:07:41,002
+Ognia!
+
+102
+00:07:44,714 --> 00:07:45,965
+Ziemniaki?
+
+103
+00:07:48,218 --> 00:07:49,552
+Nadlatuje!
+
+104
+00:07:49,636 --> 00:07:52,722
+Będzie tu za kilka minut.
+
+105
+00:07:54,224 --> 00:07:55,934
+Jest nad nami!
+
+106
+00:08:00,063 --> 00:08:02,774
+Hej, frytki lecą z nieba!
+
+107
+00:08:02,982 --> 00:08:06,069
+Ziemniaki to za mało,
+by zestrzelić tę maszynę.
+
+108
+00:08:09,114 --> 00:08:10,281
+A może nie.
+
+109
+00:08:16,246 --> 00:08:19,499
+Nie ciesz się, Patryku, spójrz!
+On ma czołg!
+
+110
+00:08:24,796 --> 00:08:28,550
+Zrobię z ciebie kiszonkę, Krabie!
+
+111
+00:08:39,144 --> 00:08:41,479
+Z nieba leci sałatka!
+
+112
+00:08:42,814 --> 00:08:44,149
+A teraz leci...
+
+113
+00:08:45,650 --> 00:08:46,985
+Czołg.
+
+114
+00:08:47,152 --> 00:08:48,403
+Nie ma sprawy!
+
+115
+00:08:51,948 --> 00:08:53,283
+Finlandia.
+
+116
+00:08:58,163 --> 00:08:59,414
+Melduję się na rozkaz!
+
+117
+00:08:59,456 --> 00:09:02,042
+Proszę o dwa kraboburgery
+z podwójnym ketchupem,
+
+118
+00:09:02,125 --> 00:09:04,336
+musztardą i majonezem.
+
+119
+00:09:04,502 --> 00:09:05,712
+Nie ten kanał!
+
+120
+00:09:05,962 --> 00:09:07,172
+Melduję się na rozkaz!
+
+121
+00:09:07,255 --> 00:09:10,925
+Podwójny ketchup! Musztarda!
+Majonez!
+
+122
+00:09:11,092 --> 00:09:12,177
+Tak jest!
+
+123
+00:09:12,302 --> 00:09:15,013
+Podwójny ketchup! Musztarda!
+
+124
+00:09:15,805 --> 00:09:18,224
+Majonez!
+
+125
+00:09:19,267 --> 00:09:20,935
+Uwolnić przyprawy!
+
+126
+00:09:20,977 --> 00:09:22,604
+Ze smakiem.
+
+127
+00:09:31,654 --> 00:09:33,448
+Przepraszam.
+
+128
+00:09:41,164 --> 00:09:42,165
+Halo?
+
+129
+00:09:42,624 --> 00:09:43,667
+Halo?
+
+130
+00:09:43,833 --> 00:09:45,919
+<i>-Nie chcesz moich pieniędzy?
+</i>-Pieniądze?
+
+131
+00:09:46,086 --> 00:09:47,671
+Dziękuję! Zapraszam ponownie!
+
+132
+00:09:53,843 --> 00:09:57,180
+Dłużej nie utrzymam tego majonezu!
+
+133
+00:10:02,268 --> 00:10:06,189
+Majonez?
+To za mało, żeby powstrzymać...
+
+134
+00:10:11,069 --> 00:10:12,362
+Co teraz?
+
+135
+00:10:23,373 --> 00:10:26,042
+Przypomniało mi się,
+że nie pracuję u pana Kraba!
+
+136
+00:10:27,252 --> 00:10:28,837
+Robot! Robot!
+
+137
+00:10:29,045 --> 00:10:31,297
+Robot! Olbrzymi robot!
+
+138
+00:10:31,506 --> 00:10:33,341
+Robot! Robot!
+
+139
+00:10:33,550 --> 00:10:37,012
+Plankton tu idzie z olbrzymim robotem!
+
+140
+00:10:37,053 --> 00:10:38,471
+Zatarasuj drzwi!
+
+141
+00:10:38,888 --> 00:10:40,015
+Gotowe!
+
+142
+00:10:49,774 --> 00:10:52,235
+Poproszę sekretny przepis
+
+143
+00:10:53,111 --> 00:10:54,320
+na wynos.
+
+144
+00:11:05,582 --> 00:11:08,251
+Niech to pąkle obrosną. Nie ma paliwa?
+
+145
+00:11:10,920 --> 00:11:12,839
+Jeszcze nie skończyłem.
+
+146
+00:11:12,922 --> 00:11:16,760
+Mam tu coś, co cię przekona
+do oddania przepisu.
+
+147
+00:11:16,843 --> 00:11:19,262
+Coś, czemu się nie oprzesz.
+
+148
+00:11:21,222 --> 00:11:22,349
+Pieniądze!
+
+149
+00:11:22,432 --> 00:11:24,059
+Tak!
+
+150
+00:11:24,100 --> 00:11:27,103
+To... To niemożliwe!
+
+151
+00:11:28,146 --> 00:11:30,523
+Jeszcze tydzień temu był pełny.
+
+152
+00:11:30,857 --> 00:11:33,902
+Ale potem kupiłem samolot
+i skonstruowałem czołg.
+
+153
+00:11:33,943 --> 00:11:39,115
+Coś mi się zdaje, że jesteś spłukany.
+
+154
+00:11:40,116 --> 00:11:42,952
+Wygrałeś, Krabie.
+
+155
+00:11:43,036 --> 00:11:46,790
+Wydałem wszystko, co zarobiłem,
+żeby wysadzić cię z siodła.
+
+156
+00:11:47,791 --> 00:11:51,628
+Do ostatniego grosza. Oto on.
+
+157
+00:11:51,711 --> 00:11:54,589
+Co pocznę z tak
+bezwartościową monetą?
+
+158
+00:11:54,798 --> 00:11:56,883
+Pozwolę sobie zasugerować,
+byś dał ją mnie.
+
+159
+00:11:56,966 --> 00:11:58,551
+Proszę, weź sobie.
+
+160
+00:12:02,806 --> 00:12:05,475
+I tak odebrałeś mi wszystko.
+
+161
+00:12:07,811 --> 00:12:11,231
+No cóż, Planktonie,
+puszczam cię z torbami,
+
+162
+00:12:11,314 --> 00:12:13,525
+jak odgrzewanego kraboburgera.
+
+163
+00:12:15,360 --> 00:12:19,489
+Sekretnemu przepisowi nic już nie grozi,
+prawda, panie Krabie?
+
+164
+00:12:19,531 --> 00:12:21,032
+Oczywiście, chłopcze.
+
+165
+00:12:21,741 --> 00:12:23,660
+Maszeruj energiczniej.
+
+166
+00:12:25,662 --> 00:12:28,415
+Dzięki, że wpadłeś! Miłego dnia!
+
+167
+00:12:31,960 --> 00:12:34,504
+Płacze tam od 20 minut.
+
+168
+00:12:34,754 --> 00:12:35,964
+Żałosne.
+
+169
+00:12:36,006 --> 00:12:38,883
+Pójdę się trochę pochełpić.
+
+170
+00:12:50,937 --> 00:12:53,857
+Cyklop do Laptopa. Odezwij się.
+
+171
+00:12:53,898 --> 00:12:57,193
+<i>Ten pseudonim mnie obraża.</i>
+
+172
+00:12:57,277 --> 00:13:00,196
+<i>Mam dwa razy większą
+moc obliczeniową niż laptop.</i>
+
+173
+00:13:00,363 --> 00:13:03,116
+Nieważne. Cisza w eterze.
+
+174
+00:13:07,495 --> 00:13:08,663
+Nareszcie!
+
+175
+00:13:11,791 --> 00:13:14,544
+Podłożyłeś minę ciśnieniową, Krabie?
+
+176
+00:13:14,586 --> 00:13:16,087
+Amatorszczyzna.
+
+177
+00:13:20,800 --> 00:13:21,801
+Doskonale!
+
+178
+00:13:25,889 --> 00:13:27,307
+Niezłe podobieństwo.
+
+179
+00:13:27,724 --> 00:13:30,226
+W sam raz, by oszukać głupiego Kraba.
+
+180
+00:13:30,310 --> 00:13:32,395
+Powoli, powoli.
+
+181
+00:13:35,940 --> 00:13:37,359
+Plankton zbankrutował!
+
+182
+00:13:37,400 --> 00:13:39,194
+Co ten pan Krab wyprawia?
+
+183
+00:13:39,235 --> 00:13:41,237
+Nie widziałem, żeby aż tak się chełpił.
+
+184
+00:13:42,822 --> 00:13:44,449
+Wiesz, Planktonie,
+
+185
+00:13:44,532 --> 00:13:47,077
+haluksy mi mówią, że czas odpocząć.
+
+186
+00:13:48,078 --> 00:13:51,664
+Wygląda na to,
+że rozłazisz się w szwach.
+
+187
+00:13:54,668 --> 00:13:56,252
+<i>Jestem biedny.</i>
+
+188
+00:13:56,294 --> 00:13:58,922
+<i>-Szloch, szloch.
+</i>-Robot?
+
+189
+00:14:00,465 --> 00:14:01,591
+Plankton?
+
+190
+00:14:05,512 --> 00:14:06,846
+Niedobrze.
+
+191
+00:14:07,597 --> 00:14:09,432
+<i>Zaczynam odliczanie.</i>
+
+192
+00:14:09,599 --> 00:14:10,975
+Mój przepis!
+
+193
+00:14:20,026 --> 00:14:22,278
+Nie, nie, nie!
+
+194
+00:14:22,320 --> 00:14:23,947
+Skalmar! Otwieraj!
+
+195
+00:14:24,114 --> 00:14:26,908
+<i>Taniec zwycięstwa. Bu-ju.</i>
+
+196
+00:14:27,117 --> 00:14:28,535
+Oddawaj!
+
+197
+00:14:28,618 --> 00:14:31,538
+Dołącz do mnie, SpongeBob!
+
+198
+00:14:31,621 --> 00:14:35,458
+Będziemy bogaci i potężni,
+póki cię nie zdradzę.
+
+199
+00:14:36,751 --> 00:14:38,962
+-Dołącz do mnie!
+-Nigdy!
+
+200
+00:14:39,045 --> 00:14:41,131
+Związałem się z Krabem na dobre i złe!
+
+201
+00:14:44,342 --> 00:14:47,137
+Plankton!
+
+202
+00:14:56,813 --> 00:14:58,815
+Co? Gdzie to się podziało?
+
+203
+00:14:58,857 --> 00:15:01,276
+<i>Chwileczkę.
+Dekonstrukcja molekularna?</i>
+
+204
+00:15:01,317 --> 00:15:04,529
+<i>Siedem razy udowodniłem,
+że to naukowo niemożliwe.</i>
+
+205
+00:15:04,612 --> 00:15:06,448
+<i>Chwileczkę.</i>
+
+206
+00:15:06,489 --> 00:15:09,075
+<i>Chyba zapomniałem wyczyścić
+kuwetę Gacusia.</i>
+
+207
+00:15:11,536 --> 00:15:14,247
+Gdzie mój przepis, Planktonie?
+
+208
+00:15:14,330 --> 00:15:17,000
+Nie wiem! Po prostu zniknął!
+
+209
+00:15:17,042 --> 00:15:19,169
+Dlaczego mam ci wierzyć,
+obłudny kłamco?
+
+210
+00:15:19,252 --> 00:15:20,920
+Zwykle przyznaję panu rację,
+
+211
+00:15:21,004 --> 00:15:23,590
+ale tym razem on mówi prawdę.
+Przepis zniknął!
+
+212
+00:15:23,673 --> 00:15:25,258
+To prawda!
+
+213
+00:15:28,803 --> 00:15:31,514
+Panie Krabie, on jest niewinny.
+
+214
+00:15:31,598 --> 00:15:33,141
+Co chcesz zrobić, Krabie?
+
+215
+00:15:33,391 --> 00:15:34,601
+Oblać mnie wrzącym olejem?
+
+216
+00:15:34,684 --> 00:15:36,770
+Wbić mi pędy bambusa pod paznokcie?
+
+217
+00:15:37,020 --> 00:15:39,689
+Nie. Puk, puk.
+
+218
+00:15:40,607 --> 00:15:44,319
+Chcesz się bawić w puk-puk?
+Bardzo chętnie.
+
+219
+00:15:44,527 --> 00:15:45,737
+Puk, puk.
+
+220
+00:15:45,945 --> 00:15:47,989
+O rety. Kto tam?
+
+221
+00:15:48,198 --> 00:15:49,199
+Tomasz.
+
+222
+00:15:49,449 --> 00:15:50,533
+I co z tego?
+
+223
+00:15:50,742 --> 00:15:53,703
+To masz mi oddać przepis, Planktonie!
+
+224
+00:15:55,038 --> 00:15:57,749
+Głupi żart, a gdzie tortury?
+
+225
+00:15:59,042 --> 00:16:00,877
+Przekonasz się.
+
+226
+00:16:00,960 --> 00:16:04,214
+"To masz mi oddać przepis"?
+
+227
+00:16:08,468 --> 00:16:10,053
+Rozumiem!
+
+228
+00:16:18,603 --> 00:16:21,481
+Każ mu przestać, Krabie!
+
+229
+00:16:31,574 --> 00:16:33,910
+Panie Krabie? SpongeBob, przestań!
+
+230
+00:16:35,787 --> 00:16:37,914
+Dziękuję, Skalmarze.
+
+231
+00:16:37,997 --> 00:16:39,958
+Klienci się niecierpliwią.
+
+232
+00:16:40,041 --> 00:16:43,420
+Żądają zwrotu pieniędzy.
+
+233
+00:16:43,920 --> 00:16:46,131
+Zwrot pieniędzy.
+
+234
+00:16:47,090 --> 00:16:48,800
+Zwrot pieniędzy?
+
+235
+00:16:48,883 --> 00:16:50,760
+Zwrot pieniędzy! Zwrot pieniędzy!
+
+236
+00:16:51,011 --> 00:16:53,096
+Posłuchaj, chłopcze. Idź tam
+
+237
+00:16:53,138 --> 00:16:55,473
+i usmaż trochę kraboburgerów!
+
+238
+00:16:55,724 --> 00:16:57,684
+A ty, Planktonie...
+
+239
+00:17:01,938 --> 00:17:03,982
+SpongeBob! Co się stało?
+
+240
+00:17:07,235 --> 00:17:09,487
+Zabrakło kraboburgerów?
+
+241
+00:17:09,696 --> 00:17:13,783
+Jak mam smażyć kraboburgery
+bez sekretnego przepisu?
+
+242
+00:17:13,867 --> 00:17:16,286
+Powinieneś znać go już na pamięć!
+
+243
+00:17:16,369 --> 00:17:17,662
+Przecież pan zabronił, szefie.
+
+244
+00:17:17,746 --> 00:17:20,123
+W instrukcji dla pracowników
+napisano wyraźnie.
+
+245
+00:17:20,165 --> 00:17:21,458
+"Pracownik nie ma prawa
+
+246
+00:17:21,541 --> 00:17:22,959
+"utrwalić sekretnego przepisu
+
+247
+00:17:23,043 --> 00:17:24,377
+"w żadnej formie,
+
+248
+00:17:24,461 --> 00:17:26,171
+"zwłaszcza w pamięci,
+snach i/lub haftach".
+
+249
+00:17:27,088 --> 00:17:29,758
+Przeklęty drobny druczek!
+
+250
+00:17:29,841 --> 00:17:32,510
+Żądamy zwrotu pieniędzy!
+
+251
+00:17:32,594 --> 00:17:34,054
+Cisza!
+
+252
+00:17:36,014 --> 00:17:37,807
+Nie jestem waszym wrogiem!
+
+253
+00:17:37,849 --> 00:17:39,893
+To Plankton wam zaszkodził!
+
+254
+00:17:39,976 --> 00:17:42,187
+Kto zjadł plankton?
+
+255
+00:17:43,480 --> 00:17:45,815
+Ktoś musiał to zrobić.
+
+256
+00:17:46,024 --> 00:17:47,150
+Ale panie Krabie...
+
+257
+00:17:47,192 --> 00:17:49,444
+Odebrał wam to!
+
+258
+00:17:49,611 --> 00:17:52,614
+-Kraboburger...
+-Ślinka mi cieknie.
+
+259
+00:17:52,655 --> 00:17:55,200
+Panie krabie, Plankton nie ukradł
+sekretnego przepisu.
+
+260
+00:17:55,283 --> 00:17:56,951
+Nie teraz, SpongeBob!
+
+261
+00:17:57,494 --> 00:18:00,372
+Hej! Co z moim
+podwójnym kraboburgerem?
+
+262
+00:18:00,580 --> 00:18:03,541
+Przyłączcie się do mnie!
+Pomóżcie mi odzyskać przepis,
+
+263
+00:18:03,792 --> 00:18:07,879
+a dostaniecie kraboburgera gratis!
+
+264
+00:18:09,714 --> 00:18:11,132
+Chwileczkę.
+
+265
+00:18:11,174 --> 00:18:13,843
+A nawet po lekko obniżonej cenie!
+
+266
+00:18:16,888 --> 00:18:19,474
+Do Kubła Pomyj!
+
+267
+00:18:19,516 --> 00:18:21,017
+Ale on tego nie zrobił.
+
+268
+00:18:22,143 --> 00:18:26,272
+Już go trzymałem w chciwych łapkach
+i nagle... Puf!
+
+269
+00:18:26,606 --> 00:18:29,359
+Zniknął. Przepadł na wieki.
+
+270
+00:18:29,442 --> 00:18:32,696
+Byłem o krok od tego,
+by wzbudzać szacunek i strach.
+
+271
+00:18:32,821 --> 00:18:34,114
+<i>Planktonie?</i>
+
+272
+00:18:34,197 --> 00:18:38,034
+Kiedy się skończy
+moja frustracja i poniżenie?
+
+273
+00:18:38,118 --> 00:18:40,120
+<i>-Planktonie?
+</i>-Nie przeszkadzaj, kochanie!
+
+274
+00:18:40,203 --> 00:18:41,871
+Teraz przemawiam i bredzę.
+
+275
+00:18:42,831 --> 00:18:44,374
+No dobra, o co chodzi?
+
+276
+00:18:44,457 --> 00:18:48,003
+<i>Chciałam cię ostrzec,
+że na zewnątrz jest rozwścieczony tłum.</i>
+
+277
+00:18:48,378 --> 00:18:50,672
+<i>Ale teraz jest już wewnątrz.</i>
+
+278
+00:18:53,383 --> 00:18:55,051
+<i>Ja tu tylko sprzątam.</i>
+
+279
+00:18:55,301 --> 00:18:57,887
+Rozprawimy się z tobą!
+
+280
+00:18:59,723 --> 00:19:01,725
+Wyglądacie na głodnych.
+
+281
+00:19:02,225 --> 00:19:03,893
+Macie ochotę na śmiecioburgery?
+
+282
+00:19:03,977 --> 00:19:05,562
+Dość tego cackania!
+
+283
+00:19:05,895 --> 00:19:08,732
+Zapytam ostatni raz.
+
+284
+00:19:08,857 --> 00:19:10,900
+Gdzie jest przepis?
+
+285
+00:19:10,984 --> 00:19:14,654
+Już mówiłem. Nie mam go.
+
+286
+00:19:14,779 --> 00:19:16,823
+Zła odpowiedź.
+
+287
+00:19:17,365 --> 00:19:18,616
+Stój!
+
+288
+00:19:18,700 --> 00:19:21,036
+Ja się z nim rozprawię, panie Krabie.
+
+289
+00:19:23,913 --> 00:19:25,832
+Co jest grane?
+
+290
+00:19:26,166 --> 00:19:28,251
+Niech pan się odsunie.
+
+291
+00:19:28,335 --> 00:19:29,419
+Będzie gorąco.
+
+292
+00:19:29,461 --> 00:19:30,587
+Miejmy nadzieję.
+
+293
+00:19:31,171 --> 00:19:33,423
+Nie chcesz śpiewać, Planktonie?
+
+294
+00:19:33,465 --> 00:19:35,633
+Sam mnie do tego zmusiłeś.
+
+295
+00:19:35,717 --> 00:19:38,511
+Planktonie, poznasz, co to ból.
+
+296
+00:19:38,762 --> 00:19:41,890
+Mydło w oku? Diaboliczny pomysł.
+
+297
+00:19:43,433 --> 00:19:45,602
+Nie! Nie rób tego!
+
+298
+00:19:46,227 --> 00:19:48,104
+To go wcale nie bolało.
+
+299
+00:19:48,355 --> 00:19:51,691
+Panie Krabie, moja dzisiejsza akcja
+wyda się panu niezrozumiała,
+
+300
+00:19:52,275 --> 00:19:56,321
+ale kiedyś będziemy ją wspominać,
+śmiejąc się do rozpuku.
+
+301
+00:19:56,780 --> 00:19:58,073
+Co tu się dzieje?
+
+302
+00:19:58,114 --> 00:19:59,949
+Oni odlatują!
+
+303
+00:20:00,450 --> 00:20:01,951
+Przykro mi, panie Krabie!
+
+304
+00:20:02,285 --> 00:20:06,164
+Od dawna to planowałeś, co?
+
+305
+00:20:06,790 --> 00:20:09,918
+Przez te wszystkie lata
+pracowałeś dla Planktona!
+
+306
+00:20:10,043 --> 00:20:11,461
+Oni są w zmowie!
+
+307
+00:20:11,503 --> 00:20:13,505
+Tak, trafiłeś w sedno.
+
+308
+00:20:13,588 --> 00:20:15,298
+Zatrzymać tę bańkę!
+
+309
+00:20:26,309 --> 00:20:28,770
+Proszę, powiedzcie,
+że pode mną jest coś miękkiego.
+
+310
+00:20:29,437 --> 00:20:30,522
+-Nie.
+-Nie.
+
+311
+00:20:31,648 --> 00:20:33,692
+SpongeBob!
+
+312
+00:20:34,693 --> 00:20:37,904
+Byłeś dla mnie jak niedoceniony syn.
+
+313
+00:20:37,987 --> 00:20:41,116
+Raczej spodziewałbym się,
+że Skalmar zada mi cios w plecy.
+
+314
+00:20:41,157 --> 00:20:42,325
+Co?
+
+315
+00:20:42,367 --> 00:20:43,618
+Ale ty, SpongeBob?
+
+316
+00:20:43,702 --> 00:20:47,664
+Moja prawa ręka?
+Razem z moim odwiecznym wrogiem?
+
+317
+00:20:47,706 --> 00:20:50,542
+Wiesz, co to znaczy, Skalmarze?
+
+318
+00:20:50,667 --> 00:20:51,960
+Że mamy dziś wolne?
+
+319
+00:20:52,002 --> 00:20:53,044
+Nie.
+
+320
+00:20:53,128 --> 00:20:56,673
+To pierwsza jaskółka nieszczęść,
+które na nas spadną.
+
+321
+00:20:56,923 --> 00:20:58,341
+Na was. Na mnie.
+
+322
+00:20:58,675 --> 00:21:00,218
+Na całe Bikini Dolne!
+
+323
+00:21:00,427 --> 00:21:02,887
+Kraboburgery są naszym spoiwem!
+
+324
+00:21:02,971 --> 00:21:07,600
+Bez nich zapanuje anarchia.
+
+325
+00:21:07,892 --> 00:21:10,353
+Rzucimy się sobie do gardeł!
+
+326
+00:21:10,603 --> 00:21:13,231
+Nadchodzą mroczne czasy.
+
+327
+00:21:13,606 --> 00:21:16,359
+Czarne jak smoła.
+
+328
+00:21:17,777 --> 00:21:18,903
+Naprawdę?
+
+329
+00:21:19,821 --> 00:21:21,906
+Czy pan trochę nie przesadza?
+
+330
+00:21:24,034 --> 00:21:26,453
+Oto czas apokalipsy, Skalmarze.
+
+331
+00:21:27,037 --> 00:21:29,080
+Lubisz skórzane ciuchy?
+
+332
+00:21:30,248 --> 00:21:31,875
+Wolę zamsz.
+
+333
+00:21:35,587 --> 00:21:39,007
+I tak Bikini Dolne
+
+334
+00:21:39,341 --> 00:21:43,094
+na wieki stało się
+apokaliptycznym szambem.
+
+335
+00:21:43,553 --> 00:21:44,804
+Koniec.
+
+336
+00:21:47,390 --> 00:21:50,268
+Chwileczkę.
+Nie podoba mi się to zakończenie.
+
+337
+00:21:50,477 --> 00:21:52,729
+-Okropne. Straszne.
+-Co? Co?
+
+338
+00:21:52,771 --> 00:21:54,981
+SpongeBob ma kłopoty i na tym koniec?
+
+339
+00:21:55,065 --> 00:21:56,941
+Au, au, au.
+
+340
+00:21:57,025 --> 00:21:58,610
+Wezwijcie psychologa!
+
+341
+00:21:58,943 --> 00:22:00,362
+Wpadam w depresję!
+
+342
+00:22:02,072 --> 00:22:05,408
+Niemożliwe, żeby koniec był taki.
+
+343
+00:22:06,868 --> 00:22:08,411
+Niestety jest. Udowodnię ci.
+
+344
+00:22:08,495 --> 00:22:09,579
+Odwróć się.
+
+345
+00:22:10,163 --> 00:22:11,247
+Zgoda.
+
+346
+00:22:12,040 --> 00:22:13,083
+Hej!
+
+347
+00:22:13,166 --> 00:22:15,126
+To moja lotka, głupku.
+
+348
+00:22:16,795 --> 00:22:18,046
+"To jest
+
+349
+00:22:19,339 --> 00:22:20,423
+"koniec"!
+
+350
+00:22:20,465 --> 00:22:21,633
+Koniec!
+
+351
+00:22:23,093 --> 00:22:24,260
+<i>To nie jest koniec!</i>
+
+352
+00:22:24,636 --> 00:22:25,887
+Oczywiście, że jest!
+
+353
+00:22:25,929 --> 00:22:27,972
+-Puść tę książkę!
+-Sam ją puść!
+
+354
+00:22:28,056 --> 00:22:29,474
+Puszczaj, półgłówku!
+
+355
+00:22:31,685 --> 00:22:34,062
+Lepiej czytaj dalej, panie Piracie,
+
+356
+00:22:34,771 --> 00:22:35,939
+bo pożałujesz!
+
+357
+00:22:37,148 --> 00:22:41,277
+Wiem, że nie wolno śmiecić,
+ale to była makulatura!
+
+358
+00:22:44,030 --> 00:22:45,824
+Makulatura!
+
+359
+00:22:47,492 --> 00:22:49,119
+Koniec!
+
+360
+00:22:55,333 --> 00:22:57,711
+Dzień dobry, Skalmarze.
+Proszę to, co zwykle.
+
+361
+00:23:01,131 --> 00:23:02,632
+Z serem.
+
+362
+00:23:02,674 --> 00:23:04,592
+Nie ma kraboburgerów!
+
+363
+00:23:04,676 --> 00:23:07,220
+Nie ma kraboburgerów?
+
+364
+00:23:07,804 --> 00:23:10,015
+Nie!
+
+365
+00:23:11,307 --> 00:23:14,144
+Spójrz, co się stało z Bikini Dolnym.
+
+366
+00:23:14,436 --> 00:23:16,855
+Musimy odzyskać ten przepis.
+
+367
+00:23:17,814 --> 00:23:20,567
+Odzyskać przepis, powiadasz?
+
+368
+00:23:20,650 --> 00:23:23,611
+Przepraszam na chwilę.
+
+369
+00:23:23,820 --> 00:23:27,407
+Z tym przepisem podbiję świat.
+
+370
+00:23:31,494 --> 00:23:33,038
+Słyszę, co wygadujesz.
+
+371
+00:23:33,121 --> 00:23:35,165
+Więc co zrobimy?
+
+372
+00:23:35,206 --> 00:23:38,251
+Połączymy siły.
+Będziemy drużyną.
+
+373
+00:23:38,335 --> 00:23:40,545
+Pojedziemy drezyną?
+
+374
+00:23:40,628 --> 00:23:42,172
+Nie, Planktonie. Powiedz: "drużyna".
+
+375
+00:23:42,505 --> 00:23:43,631
+Drezyna.
+
+376
+00:23:43,715 --> 00:23:45,050
+-Zespół.
+-Weź pół.
+
+377
+00:23:45,175 --> 00:23:46,176
+-Praca w zespole.
+-Puste pole.
+
+378
+00:23:46,259 --> 00:23:48,553
+-"Gra", jak w sporcie.
+-Gra.
+
+379
+00:23:48,720 --> 00:23:50,388
+-Teraz powiedz: "zespołowa".
+-Zespołowa.
+
+380
+00:23:50,513 --> 00:23:51,556
+Połącz te słowa. Co wyjdzie?
+
+381
+00:23:51,681 --> 00:23:53,308
+Bomba zegarowa.
+
+382
+00:23:53,475 --> 00:23:54,517
+Coraz lepiej!
+
+383
+00:23:57,479 --> 00:24:00,565
+<i>Tu kanał informacyjny Bikini Dolnego!</i>
+
+384
+00:24:03,777 --> 00:24:05,236
+Cześć, Patryku!
+
+385
+00:24:05,320 --> 00:24:08,865
+Kraboburger, kraboburger!
+
+386
+00:24:10,450 --> 00:24:13,286
+Kraboburger, kraboburger...
+
+387
+00:24:13,870 --> 00:24:16,039
+Kraboburger...
+
+388
+00:24:16,081 --> 00:24:17,540
+Kraboburger...
+
+389
+00:24:17,624 --> 00:24:19,042
+Krabo...
+
+390
+00:24:19,084 --> 00:24:21,169
+Burger!
+
+391
+00:24:22,796 --> 00:24:26,424
+Chodź, brzuszku, czeka nas długi dzień.
+
+392
+00:24:26,758 --> 00:24:30,553
+<i>Przerywamy program,
+żeby nadać najświeższe wiadomości.</i>
+
+393
+00:24:30,637 --> 00:24:34,766
+Nasz reporter Roman Okoń
+jest w Bikini Dolnym.
+
+394
+00:24:34,849 --> 00:24:38,061
+Zapanował tu kompletny chaos,
+
+395
+00:24:38,103 --> 00:24:42,399
+bo nagle zabrakło kraboburgerów.
+
+396
+00:24:42,482 --> 00:24:44,567
+Nasuwa się pytanie,
+
+397
+00:24:44,609 --> 00:24:48,238
+co jest sekretnym składnikiem
+tego przysmaku.
+
+398
+00:24:48,321 --> 00:24:52,575
+To miłość!
+Sekretnym składnikiem jest miłość!
+
+399
+00:24:54,577 --> 00:24:55,912
+Zabrakło kraboburgerów?
+
+400
+00:24:55,995 --> 00:24:59,290
+Gdybym wiedziała,
+przeżuwałabym wolniej.
+
+401
+00:25:01,501 --> 00:25:03,670
+Co to za pasztet?
+
+402
+00:25:08,049 --> 00:25:10,135
+To łatwe, Planktonie!
+
+403
+00:25:10,427 --> 00:25:13,930
+Ja pomogę tobie, ty pomożesz mnie,
+a gdy osiągniemy cel,
+
+404
+00:25:13,972 --> 00:25:15,223
+uściśniemy sobie ręce.
+
+405
+00:25:15,348 --> 00:25:18,351
+Uściśniemy ręce? Nie, nie. To głupota.
+
+406
+00:25:19,602 --> 00:25:22,814
+Poza tym nie poradzimy sobie
+z tą rozwścieczoną tłuszczą.
+
+407
+00:25:25,608 --> 00:25:29,404
+To by wymagało większego zespołu.
+
+408
+00:25:29,487 --> 00:25:30,864
+O tym samym myślałem!
+
+409
+00:25:30,947 --> 00:25:32,323
+Co ty wyprawiasz?
+
+410
+00:25:35,994 --> 00:25:38,955
+Chcę kraboburgera!
+
+411
+00:25:40,081 --> 00:25:41,541
+Patryku, co robisz?
+
+412
+00:25:41,666 --> 00:25:42,917
+Kraboburgera!
+
+413
+00:25:42,959 --> 00:25:44,419
+Uprawiam wandalizm.
+
+414
+00:25:44,586 --> 00:25:46,296
+Rozbijasz własny dom?
+
+415
+00:25:46,379 --> 00:25:48,089
+Dość tych pytań!
+
+416
+00:25:48,131 --> 00:25:49,466
+Coście za jedni?
+
+417
+00:25:49,632 --> 00:25:52,010
+To ja, SpongeBob, twój przyjaciel!
+
+418
+00:25:52,093 --> 00:25:53,261
+Tak?
+
+419
+00:25:53,303 --> 00:25:57,557
+Jeśli jesteś SpongeBobem,
+podaj tajne hasło.
+
+420
+00:25:58,141 --> 00:25:59,142
+Eee...
+
+421
+00:25:59,267 --> 00:26:01,311
+Tak jest! To ty!
+
+422
+00:26:01,353 --> 00:26:03,438
+SpongeBob!
+
+423
+00:26:03,480 --> 00:26:05,315
+-SpongeBob.
+-Patryk!
+
+424
+00:26:05,357 --> 00:26:07,108
+SpongeBob!
+
+425
+00:26:07,150 --> 00:26:11,237
+Dlaczego nie smażysz kraboburgerów
+Pod Tłustym Krabem?
+
+426
+00:26:11,321 --> 00:26:13,448
+Chciałbym, ale przepis zniknął.
+
+427
+00:26:13,490 --> 00:26:15,575
+Pan Krab mówi,
+że ukradliście go z Planktonem.
+
+428
+00:26:15,658 --> 00:26:17,202
+To nieprawda.
+
+429
+00:26:17,285 --> 00:26:18,661
+Po prostu zniknął.
+
+430
+00:26:18,745 --> 00:26:20,747
+Zbieramy drużynę poszukiwawczą.
+
+431
+00:26:20,830 --> 00:26:22,248
+Drużynę?
+
+432
+00:26:23,124 --> 00:26:24,709
+Weźcie mnie! Weźcie mnie!
+
+433
+00:26:24,834 --> 00:26:26,127
+Zgoda, Patryku. Jesteś przyjęty.
+
+434
+00:26:26,169 --> 00:26:27,629
+Nie wiem, SpongeBob.
+
+435
+00:26:27,796 --> 00:26:31,174
+Co ten klaun może wnieść do zespołu?
+
+436
+00:26:31,341 --> 00:26:33,510
+Lojalność, Planktonie.
+
+437
+00:26:33,885 --> 00:26:36,137
+Lojalność. Prawda, Patryku?
+
+438
+00:26:36,179 --> 00:26:37,514
+Tak, tak, lojalność.
+
+439
+00:26:38,098 --> 00:26:40,141
+Złapałem SpongeBoba!
+
+440
+00:26:40,183 --> 00:26:42,686
+Jest tutaj!
+
+441
+00:26:45,939 --> 00:26:48,191
+Brać go!
+
+442
+00:26:49,401 --> 00:26:52,028
+Szybko, SpongeBob, wynośmy się stąd!
+
+443
+00:26:52,112 --> 00:26:53,363
+Patryku!
+
+444
+00:26:54,948 --> 00:26:56,783
+Dlaczego to robisz?
+
+445
+00:26:56,950 --> 00:26:59,160
+Bo chcę jeść
+
+446
+00:26:59,536 --> 00:27:01,204
+kraboburgery!
+
+447
+00:27:01,246 --> 00:27:03,248
+Szybciej! Jestem głodny!
+
+448
+00:27:03,915 --> 00:27:05,500
+Tutaj!
+
+449
+00:27:12,173 --> 00:27:15,218
+Chłopaki, jestem jeszcze w drużynie?
+
+450
+00:27:15,677 --> 00:27:17,595
+Co się gapisz?
+
+451
+00:27:23,476 --> 00:27:24,728
+Sandy!
+
+452
+00:27:27,731 --> 00:27:29,065
+Sandy!
+
+453
+00:27:34,738 --> 00:27:35,905
+Sandy?
+
+454
+00:27:37,032 --> 00:27:38,992
+Sandy, jesteś tutaj?
+
+455
+00:27:39,367 --> 00:27:41,286
+Ciekawe, gdzie się podziała.
+
+456
+00:27:41,828 --> 00:27:43,955
+Co to?
+
+457
+00:27:45,165 --> 00:27:46,166
+Sandy?
+
+458
+00:27:48,293 --> 00:27:49,711
+Nie dotykaj!
+
+459
+00:27:50,253 --> 00:27:51,921
+Bełkotliwe mamrotanie.
+
+460
+00:27:53,006 --> 00:27:55,175
+Sandy? Wszystko w porządku?
+
+461
+00:27:55,258 --> 00:27:56,426
+W porządku?
+
+462
+00:27:56,885 --> 00:28:01,431
+Wyglądałeś na zewnątrz?
+To jest dla ciebie porządek?
+
+463
+00:28:01,473 --> 00:28:04,351
+Próbuję zrozumieć,
+co się stało z naszą społecznością.
+
+464
+00:28:04,768 --> 00:28:08,021
+Jeśli szybko temu nie zaradzimy,
+nie będzie co zbierać!
+
+465
+00:28:08,897 --> 00:28:10,106
+Sandy?
+
+466
+00:28:10,148 --> 00:28:12,359
+Niedobór kraboburgerów
+pomieszał jej rozum.
+
+467
+00:28:12,442 --> 00:28:15,111
+Sądzę, że znam przyczynę.
+
+468
+00:28:15,195 --> 00:28:16,279
+Spójrz.
+
+469
+00:28:18,531 --> 00:28:21,284
+Gdy to spadło z nieba,
+
+470
+00:28:21,868 --> 00:28:24,913
+wiedziałam, że wróży tylko jedno.
+
+471
+00:28:25,121 --> 00:28:26,539
+Co mianowicie?
+
+472
+00:28:27,624 --> 00:28:30,794
+Nieuchronny koniec!
+
+473
+00:28:31,002 --> 00:28:34,631
+Bogowie kanapek gniewają się na nas!
+
+474
+00:28:34,839 --> 00:28:36,257
+-Bogowie kanapek?
+-Bogowie kanapek?
+
+475
+00:28:36,299 --> 00:28:39,969
+Nie wiem tylko, jak ich udobruchać!
+
+476
+00:28:47,143 --> 00:28:50,313
+Wszystkim twoim przyjaciołom
+brakuje piątej klepki?
+
+477
+00:28:50,355 --> 00:28:54,275
+Znam kogoś,
+kto mnie nigdy nie zawiedzie.
+
+478
+00:29:01,157 --> 00:29:02,701
+Gacusiu, wróciłem.
+
+479
+00:29:03,660 --> 00:29:04,744
+Pieszczochu?
+
+480
+00:29:06,788 --> 00:29:07,872
+Gacusiu?
+
+481
+00:29:08,289 --> 00:29:09,374
+Gacusiu?
+
+482
+00:29:12,210 --> 00:29:13,294
+Bunt!
+
+483
+00:29:13,336 --> 00:29:15,213
+To znaczy, że Gacuś jest w pobliżu!
+
+484
+00:29:15,296 --> 00:29:17,257
+Gacusiu, wróciłem!
+
+485
+00:29:22,804 --> 00:29:25,974
+Plankton i ja chcemy,
+żebyś nam pomógł odnaleźć przepis
+
+486
+00:29:26,016 --> 00:29:27,392
+i zaprowadzić ład w Bikini Dolnym.
+
+487
+00:29:28,351 --> 00:29:31,062
+Co to znaczy,
+że nie będziesz mnie słuchał?
+
+488
+00:29:31,896 --> 00:29:34,107
+Jaki "król ślimaków"?
+
+489
+00:29:34,315 --> 00:29:37,527
+Ślimaku Gacusiu,
+zejdź tu natychmiast i dołącz do nas!
+
+490
+00:29:39,154 --> 00:29:40,822
+Komu mam "stawić czoła"?
+
+491
+00:29:45,618 --> 00:29:46,703
+Dlaczego biegniemy?
+
+492
+00:29:46,786 --> 00:29:48,872
+Bo depczą nam po piętach.
+
+493
+00:29:53,001 --> 00:29:54,711
+Racja, to ślimaki.
+
+494
+00:29:54,753 --> 00:29:57,714
+Tak wygląda twoja drużyna.
+
+495
+00:29:57,756 --> 00:30:01,509
+Dobrać zgrany zespół jest trudniej,
+niż myślałem!
+
+496
+00:30:01,593 --> 00:30:02,927
+Tędy!
+
+497
+00:30:03,053 --> 00:30:05,805
+Lepiej bierzmy nogi za pas,
+bo robi się gorąco.
+
+498
+00:30:17,067 --> 00:30:20,153
+Wszystko, co znamy i kochamy,
+legło w gruzach.
+
+499
+00:30:20,612 --> 00:30:21,946
+Trzeba będzie zmienić nazwę
+
+500
+00:30:22,030 --> 00:30:24,991
+z Bikini Dolnego na Dziurawe Figi.
+
+501
+00:30:26,117 --> 00:30:27,994
+Mam rację?
+
+502
+00:30:28,078 --> 00:30:29,996
+To okropne, Planktonie.
+
+503
+00:30:30,080 --> 00:30:32,415
+Tak, niewczesny żart.
+
+504
+00:30:33,416 --> 00:30:36,336
+Chyba naprawdę nadszedł kres.
+
+505
+00:30:37,295 --> 00:30:39,339
+Nie martw się, SpongeBob,
+
+506
+00:30:39,464 --> 00:30:41,132
+odnajdziemy sekretny przepis
+
+507
+00:30:41,216 --> 00:30:43,426
+i wszystko będzie jak kiedyś,
+
+508
+00:30:43,468 --> 00:30:45,720
+zapanuje szczęście i badziewie.
+
+509
+00:30:47,806 --> 00:30:51,226
+Prześpijmy się trochę.
+
+510
+00:30:55,063 --> 00:30:57,565
+Dobra myśl.
+
+511
+00:31:01,653 --> 00:31:04,781
+Wygodnie ci?
+
+512
+00:31:04,823 --> 00:31:06,282
+Coś ci powiem, Planktonie,
+
+513
+00:31:06,324 --> 00:31:11,121
+chyba więcej wiesz o pracy zespołowej,
+niż przyznajesz.
+
+514
+00:31:11,329 --> 00:31:12,789
+Miłych snów.
+
+515
+00:31:13,456 --> 00:31:14,958
+Dobrej nocy, Planktonie.
+
+516
+00:31:18,420 --> 00:31:20,839
+Będzie wyjątkowo dobra.
+
+517
+00:31:21,589 --> 00:31:24,092
+Śpij mocno, SpongeBob.
+
+518
+00:31:24,300 --> 00:31:27,303
+Gdzieś tam ukrywasz ten przepis.
+
+519
+00:31:31,975 --> 00:31:34,477
+To nic wielkiego.
+
+520
+00:31:41,818 --> 00:31:44,988
+Co tu się dzieje?
+
+521
+00:31:48,575 --> 00:31:50,076
+Kajmakowa bitwa!
+
+522
+00:31:50,160 --> 00:31:52,495
+Cały jestem w polewie!
+
+523
+00:31:53,371 --> 00:31:55,165
+Jak tu słodko!
+
+524
+00:31:55,206 --> 00:31:57,625
+Moja gałka oczna dostanie próchnicy!
+
+525
+00:31:57,667 --> 00:31:59,294
+Witaj, Planktonie.
+
+526
+00:31:59,502 --> 00:32:00,795
+Pobaw się z nami.
+
+527
+00:32:01,629 --> 00:32:03,006
+Szybko,
+
+528
+00:32:03,131 --> 00:32:05,342
+zanim się rozpuścimy.
+
+529
+00:32:34,579 --> 00:32:36,373
+Za dużo słodyczy.
+
+530
+00:32:36,414 --> 00:32:38,500
+Zaraz zwymiotuję!
+
+531
+00:32:42,587 --> 00:32:43,797
+Tatusiu!
+
+532
+00:32:48,385 --> 00:32:50,553
+Plankton? Plankton!
+
+533
+00:32:50,637 --> 00:32:53,390
+Miałem szalony sen!
+Byłeś w nim!
+
+534
+00:32:53,431 --> 00:32:54,766
+Zwykła rzecz.
+
+535
+00:32:56,518 --> 00:32:57,811
+Wracaj do łóżka.
+
+536
+00:32:57,977 --> 00:32:59,396
+Byłeś w moim mózgu?
+
+537
+00:32:59,562 --> 00:33:02,399
+Co? Nie! Pleciesz bzdury!
+
+538
+00:33:02,691 --> 00:33:05,902
+To skąd ta wata cukrowa
+na twojej antence?
+
+539
+00:33:05,985 --> 00:33:08,780
+Dostałem od...
+
+540
+00:33:08,863 --> 00:33:10,824
+No dobra, byłem w twoim mózgu.
+
+541
+00:33:11,449 --> 00:33:13,076
+Co tam robiłeś?
+
+542
+00:33:13,118 --> 00:33:14,786
+A co miałem robić?
+
+543
+00:33:14,869 --> 00:33:16,538
+Szukałem sekretnego przepisu.
+
+544
+00:33:16,579 --> 00:33:18,581
+-Co?
+-Nie udawaj niewiniątka.
+
+545
+00:33:18,748 --> 00:33:20,250
+Wiedziałeś, co planuję.
+
+546
+00:33:20,417 --> 00:33:22,794
+Dlatego kłamałeś,
+że nie znasz przepisu.
+
+547
+00:33:22,877 --> 00:33:24,170
+Nie kłamałem!
+
+548
+00:33:24,254 --> 00:33:26,089
+Jak mogłeś tak pomyśleć?
+
+549
+00:33:26,131 --> 00:33:27,799
+Nie bierz tego do siebie.
+
+550
+00:33:27,882 --> 00:33:29,634
+Wszystkich podejrzewam o kłamstwo.
+
+551
+00:33:29,718 --> 00:33:31,344
+To okropny sposób
+
+552
+00:33:31,428 --> 00:33:33,138
+-na życie.
+-Nieważne.
+
+553
+00:33:33,221 --> 00:33:36,057
+Ważne! Jeśli mamy być drużyną...
+
+554
+00:33:36,224 --> 00:33:40,645
+Może ja nie chcę jechać drezyną!
+Nie przyszło ci to do głowy?
+
+555
+00:33:40,770 --> 00:33:43,773
+Ależ, Planktonie,
+razem łatwiej iść przez życie.
+
+556
+00:33:45,150 --> 00:33:47,318
+Chyba nie zamierzasz śpiewać?
+
+557
+00:33:47,402 --> 00:33:48,445
+<i>Drużyna!</i>
+
+558
+00:33:48,486 --> 00:33:49,487
+O rety.
+
+559
+00:33:49,571 --> 00:33:51,489
+<i>Drużyna może góry przenosić</i>
+
+560
+00:33:51,573 --> 00:33:53,616
+<i>Hej, przyjacielu, nie daj się prosić</i>
+
+561
+00:33:53,658 --> 00:33:55,160
+<i>Z jazdy drezyną rezygnuję</i>
+
+562
+00:33:55,326 --> 00:33:57,871
+<i>Nigdy nie dowiesz się, co knuję</i>
+
+563
+00:33:58,038 --> 00:34:00,457
+<i>Więc głowy mi nie zawracaj</i>
+
+564
+00:34:00,498 --> 00:34:02,500
+<i>Nie ma to jak wspólna praca</i>
+
+565
+00:34:02,584 --> 00:34:06,713
+<i>Świat do nóg się ścieli nam</i>
+
+566
+00:34:06,921 --> 00:34:08,923
+<i>Świetnie sobie radzę sam</i>
+
+567
+00:34:09,132 --> 00:34:10,925
+<i>Samotna praca nie sprawia frajdy</i>
+
+568
+00:34:11,051 --> 00:34:13,386
+<i>Wokół są same niedorajdy</i>
+
+569
+00:34:13,470 --> 00:34:15,472
+<i>A jeśli szczytniejsze masz cele?</i>
+
+570
+00:34:15,513 --> 00:34:16,639
+<i>Sam jestem celem</i>
+
+571
+00:34:16,681 --> 00:34:19,184
+<i>Dla rozwścieczonej tłuszczy!</i>
+
+572
+00:34:19,267 --> 00:34:21,144
+<i>Jak z tego wybrnąć</i>
+
+573
+00:34:21,186 --> 00:34:24,356
+<i>Partner ci wyłuszczy</i>
+
+574
+00:34:24,522 --> 00:34:26,524
+<i>Będę młotem, a ty gwoździem</i>
+
+575
+00:34:26,649 --> 00:34:28,485
+<i>Będę łodzią, a ty żaglem</i>
+
+576
+00:34:28,651 --> 00:34:30,737
+<i>Będę kwiatem, a ty wonią</i>
+
+577
+00:34:30,820 --> 00:34:34,949
+<i>Samotność jest najlepszą bronią</i>
+
+578
+00:34:34,991 --> 00:34:36,076
+Daj spokój.
+
+579
+00:34:36,159 --> 00:34:38,161
+<i>Pomóżmy sobie nawzajem</i>
+
+580
+00:34:38,244 --> 00:34:40,663
+<i>Życie będzie dla nas rajem</i>
+
+581
+00:34:40,830 --> 00:34:44,000
+<i>Pracując w harmonii społem</i>
+
+582
+00:34:44,167 --> 00:34:46,378
+<i>Ręka w rękę gwiazd sięgniemy</i>
+
+583
+00:34:46,461 --> 00:34:48,046
+<i>I nigdy nie wymiękniemy</i>
+
+584
+00:34:48,129 --> 00:34:50,548
+<i>Bo jesteśmy zgranym zespołem!</i>
+
+585
+00:34:50,632 --> 00:34:53,176
+Dobra, możesz mnie postawić.
+
+586
+00:34:53,218 --> 00:34:54,552
+Cóż...
+
+587
+00:34:54,636 --> 00:34:56,888
+Nie odzyskam tej straconej minuty.
+
+588
+00:34:56,971 --> 00:34:58,348
+Przydałby ci się wehikuł czasu.
+
+589
+00:34:58,473 --> 00:35:00,475
+Chwileczkę. Zatrzymaj tę myśl.
+
+590
+00:35:02,310 --> 00:35:03,311
+Cofnij.
+
+591
+00:35:05,730 --> 00:35:06,940
+Puść wolno.
+
+592
+00:35:07,023 --> 00:35:09,526
+Przydałby ci się wehikuł czasu.
+
+593
+00:35:11,444 --> 00:35:12,529
+Tak!
+
+594
+00:35:13,697 --> 00:35:16,700
+-SpongeBob, jesteś geniuszem!
+-Naprawdę?
+
+595
+00:35:16,866 --> 00:35:18,952
+Zbudujemy wehikuł czasu
+
+596
+00:35:19,035 --> 00:35:21,705
+i cofniemy się do chwili
+przed zniknięciem przepisu.
+
+597
+00:35:21,788 --> 00:35:25,458
+Przed rozpadem społeczności.
+Przed wyrzuceniem nas poza nawias!
+
+598
+00:35:25,542 --> 00:35:29,671
+Wspaniały plan, Planktonie,
+ale jak zbudować wehikuł czasu?
+
+599
+00:35:30,588 --> 00:35:32,882
+Potrzebujemy komputera o takiej mocy,
+
+600
+00:35:32,924 --> 00:35:35,051
+żeby zdołał obliczyć
+meandry podróży w czasie.
+
+601
+00:35:35,135 --> 00:35:37,053
+Gdzie go znaleźć?
+
+602
+00:35:38,596 --> 00:35:41,307
+Oto on. Moja żona jest komputerem.
+
+603
+00:35:41,558 --> 00:35:43,560
+Trzymają ją związaną na zapleczu.
+
+604
+00:35:43,810 --> 00:35:45,937
+Nie widziałem takich tłumów
+w Kuble Pomyj.
+
+605
+00:35:46,021 --> 00:35:47,188
+Nikogo tam nie widziałem.
+
+606
+00:35:47,230 --> 00:35:48,481
+Musiałeś to powiedzieć?
+
+607
+00:35:48,565 --> 00:35:49,774
+Nie jada się tam smacznie.
+
+608
+00:35:49,858 --> 00:35:51,443
+Co ty powiesz?
+
+609
+00:35:51,526 --> 00:35:53,778
+Jak się przemkniemy koło strażników?
+
+610
+00:36:03,788 --> 00:36:06,458
+Co my tu mamy?
+
+611
+00:36:10,253 --> 00:36:13,423
+Lepiej się pospieszmy.
+Ci goście nie cierpią opon.
+
+612
+00:36:18,678 --> 00:36:21,431
+Nie damy rady. Drzwi są zamknięte.
+
+613
+00:36:23,433 --> 00:36:26,061
+Ale okno jest otwarte.
+
+614
+00:36:26,102 --> 00:36:27,103
+Chodź, Planktonie,
+
+615
+00:36:27,187 --> 00:36:29,064
+czas na pracę zespołową.
+Podsadź mnie.
+
+616
+00:36:29,147 --> 00:36:31,107
+Dobra. Uważaj! Nie!
+
+617
+00:36:33,651 --> 00:36:35,820
+Trochę wyżej.
+
+618
+00:36:36,446 --> 00:36:37,614
+Plankton?
+
+619
+00:36:39,115 --> 00:36:43,078
+To ty mnie podsadź.
+
+620
+00:36:43,244 --> 00:36:44,579
+Dobry pomysł.
+
+621
+00:36:52,504 --> 00:36:54,881
+Wejdź, SpongeBob, szybko!
+
+622
+00:36:57,717 --> 00:36:59,052
+Udało się!
+
+623
+00:37:01,554 --> 00:37:03,181
+Tam jest strażnik.
+
+624
+00:37:04,057 --> 00:37:06,518
+Zabierzmy mu klucz.
+
+625
+00:37:06,643 --> 00:37:08,812
+Musimy być bardzo cicho.
+
+626
+00:37:08,853 --> 00:37:11,314
+Podejdziemy na paluszkach.
+
+627
+00:37:23,076 --> 00:37:25,203
+Przestaniesz grać na tym pianinie?
+
+628
+00:37:25,286 --> 00:37:26,788
+Złapią nas przez ciebie.
+
+629
+00:37:26,913 --> 00:37:27,914
+Przepraszam.
+
+630
+00:37:30,375 --> 00:37:33,378
+Teraz sięgnij i zabierz klucz.
+
+631
+00:37:36,464 --> 00:37:38,633
+Stać! Kto tam?
+
+632
+00:37:48,935 --> 00:37:51,688
+Przestań! Przeciągnij przez głowę!
+
+633
+00:37:54,024 --> 00:37:55,108
+Przestań!
+
+634
+00:37:58,486 --> 00:38:00,405
+Ja tam pójdę.
+
+635
+00:38:29,100 --> 00:38:30,560
+Pomóż mi.
+
+636
+00:38:35,357 --> 00:38:36,816
+Co?
+
+637
+00:38:37,776 --> 00:38:38,902
+Nie!
+
+638
+00:38:39,069 --> 00:38:40,570
+Plankton, na pomoc!
+
+639
+00:38:42,655 --> 00:38:44,574
+Ja go ukołyszę, a ty opowiedz mu bajkę.
+
+640
+00:38:44,741 --> 00:38:46,534
+Dawno temu
+
+641
+00:38:46,576 --> 00:38:49,871
+żył sobie głupi różowy tłuścioch,
+który poszedł spać. Koniec!
+
+642
+00:38:50,080 --> 00:38:52,916
+Nieźle, ale to za mało, żeby...
+
+643
+00:38:59,089 --> 00:39:03,259
+<i>Nie znam tego przepisu, oprawcy!</i>
+
+644
+00:39:03,510 --> 00:39:05,804
+-Jak się masz, maleńka?
+<i>-Plankton!</i>
+
+645
+00:39:06,012 --> 00:39:08,264
+<i>Mój bohater!
+Pewnie czegoś potrzebujesz,</i>
+
+646
+00:39:08,348 --> 00:39:10,100
+<i>inaczej byś nie wrócił.</i>
+
+647
+00:39:10,225 --> 00:39:12,936
+Plankton ma plan,
+jak uratować Bikini Dolne.
+
+648
+00:39:16,856 --> 00:39:20,735
+<i>To na nic, Planktonie.
+Krab zna wszystkie twoje plany.</i>
+
+649
+00:39:20,902 --> 00:39:23,822
+<i>Przejrzał mój twardy dysk,
+szukając przepisu.</i>
+
+650
+00:39:24,072 --> 00:39:26,950
+Nigdy go nie miałem. Ale zdobędę.
+
+651
+00:39:27,033 --> 00:39:28,618
+Cofniemy się w czasie
+
+652
+00:39:28,702 --> 00:39:30,954
+i ukradniemy przepis, zanim zniknie.
+
+653
+00:39:31,121 --> 00:39:32,205
+<i>Podróż w czasie!</i>
+
+654
+00:39:32,330 --> 00:39:34,582
+<i>Skąd weźmiemy komputer
+zdolny do takich obliczeń?</i>
+
+655
+00:39:34,666 --> 00:39:35,917
+<i>Chwileczkę!</i>
+
+656
+00:39:40,296 --> 00:39:41,798
+Nigdy nie niosłem głowy.
+
+657
+00:39:41,881 --> 00:39:43,299
+Przyzwyczaisz się.
+
+658
+00:39:43,383 --> 00:39:45,051
+Jeszcze ciepła.
+
+659
+00:39:46,094 --> 00:39:47,971
+Nie chcesz mówić, co?
+
+660
+00:39:48,054 --> 00:39:49,806
+Spuśćmy z niej powietrze.
+
+661
+00:39:51,141 --> 00:39:53,643
+Taco
+chata
+
+662
+00:39:54,310 --> 00:39:56,688
+Tutaj zbudujemy wehikuł czasu?
+
+663
+00:39:56,813 --> 00:39:59,149
+Jasne. Mamy wszystko, co trzeba.
+
+664
+00:39:59,315 --> 00:40:00,316
+Automat do zdjęć.
+
+665
+00:40:00,483 --> 00:40:01,901
+Zegar z kukułką.
+
+666
+00:40:03,611 --> 00:40:04,779
+Wczorajsze chipsy.
+
+667
+00:40:04,988 --> 00:40:06,990
+Pozostaje nam tylko budować.
+
+668
+00:40:08,241 --> 00:40:10,994
+-Nie będziesz śpiewał!
+-Hej, moja okaryna!
+
+669
+00:40:11,077 --> 00:40:13,663
+Potrzebuję jej. Do wehikułu czasu.
+
+670
+00:40:13,705 --> 00:40:14,956
+Dobra.
+
+671
+00:40:20,086 --> 00:40:21,421
+Zainstalowana!
+
+672
+00:40:41,691 --> 00:40:43,276
+Dokonałem tego!
+
+673
+00:40:43,360 --> 00:40:45,528
+Nie, my dokonaliśmy!
+
+674
+00:40:45,570 --> 00:40:47,405
+Razem tego dokonaliśmy.
+
+675
+00:40:47,530 --> 00:40:48,782
+Jako drezyna.
+
+676
+00:40:48,865 --> 00:40:50,617
+-Drużyna.
+-Wszystko jedno.
+
+677
+00:40:50,700 --> 00:40:53,828
+<i>Pracując w harmonii społem</i>
+
+678
+00:40:53,995 --> 00:40:56,247
+<i>Ręka w rękę gwiazd sięgniemy</i>
+
+679
+00:40:56,414 --> 00:41:00,251
+<i>I nigdy nie wymiękniemy
+Bo jesteśmy zgranym zespołem!</i>
+
+680
+00:41:00,460 --> 00:41:02,712
+Oto mózg przedsięwzięcia!
+
+681
+00:41:04,214 --> 00:41:06,466
+<i>Planktonie, nadszedł czas.</i>
+
+682
+00:41:06,549 --> 00:41:10,220
+<i>Ten wehikuł wyssie ze mnie
+cały procesor.</i>
+
+683
+00:41:10,303 --> 00:41:12,389
+<i>Więc jeśli chcesz mi coś powiedzieć,</i>
+
+684
+00:41:12,430 --> 00:41:13,848
+<i>zrób to teraz.</i>
+
+685
+00:41:14,724 --> 00:41:16,267
+No cóż, Karen...
+
+686
+00:41:16,351 --> 00:41:19,771
+Wiem, że cię wykorzystywałem
+przez te wszystkie lata.
+
+687
+00:41:20,438 --> 00:41:23,441
+Chcę, żebyś wiedziała,
+
+688
+00:41:23,525 --> 00:41:25,860
+że dobrze było mieć cię w drezynie.
+
+689
+00:41:25,902 --> 00:41:28,738
+<i>To najsłodsze wyznanie,
+jakie od ciebie...</i>
+
+690
+00:41:33,576 --> 00:41:35,495
+Planktonie, ty płaczesz?
+
+691
+00:41:35,578 --> 00:41:37,330
+Nie, nie, nie!
+
+692
+00:41:37,580 --> 00:41:40,750
+Duże oko często sprawia kłopoty.
+
+693
+00:41:40,792 --> 00:41:42,752
+Ciągle coś w nie wpada.
+
+694
+00:41:42,836 --> 00:41:44,546
+Na czym skończyliśmy?
+
+695
+00:41:44,754 --> 00:41:46,297
+Powiedz: "ser".
+
+696
+00:41:47,757 --> 00:41:49,134
+Ser!
+
+697
+00:42:12,532 --> 00:42:14,701
+Według moich obliczeń
+
+698
+00:42:14,784 --> 00:42:17,787
+Tłusty Krab powinien być tutaj!
+
+699
+00:42:17,871 --> 00:42:19,706
+Co tam jest?
+
+700
+00:42:21,041 --> 00:42:23,293
+-SpongeBob?
+-Patryk?
+
+701
+00:42:23,460 --> 00:42:24,794
+To naprawdę ty?
+
+702
+00:42:24,919 --> 00:42:26,838
+-Tak, Patryku...
+-Nareszcie!
+
+703
+00:42:27,088 --> 00:42:30,842
+Skończył się
+Wielki Głód Kraboburgerów!
+
+704
+00:42:31,009 --> 00:42:34,262
+Wielki Głód Kraboburgerów?
+Który to rok?
+
+705
+00:42:34,512 --> 00:42:35,638
+Czwartek.
+
+706
+00:42:35,847 --> 00:42:37,891
+Według moich obliczeń
+
+707
+00:42:37,974 --> 00:42:40,435
+przenieśliśmy się
+tylko o cztery dni w przyszłość.
+
+708
+00:42:40,602 --> 00:42:42,145
+Gdzie są wszyscy?
+
+709
+00:42:42,354 --> 00:42:46,149
+Zwątpili w twój powrót. Ale ja nie!
+
+710
+00:42:46,191 --> 00:42:48,360
+Bo nie jestem zbyt mądry.
+
+711
+00:42:48,818 --> 00:42:50,904
+Gdzie jest Tłusty Krab?
+
+712
+00:42:51,112 --> 00:42:53,281
+Tam gdzie zawsze.
+
+713
+00:42:53,531 --> 00:42:55,325
+POD TŁUSTYM KRABEM
+
+714
+00:43:20,684 --> 00:43:23,853
+Chyba pogubiliśmy się w czasie.
+
+715
+00:43:23,937 --> 00:43:26,189
+Lepiej spytam o drogę tego gościa.
+
+716
+00:43:27,399 --> 00:43:30,610
+Mógłby nam pan powiedzieć,
+kiedy jesteśmy?
+
+717
+00:43:31,194 --> 00:43:36,282
+Kto śmie przeszkadzać
+Temu Który Strzeże?
+
+718
+00:43:36,366 --> 00:43:37,659
+Temu Który Strzeże?
+
+719
+00:43:37,784 --> 00:43:39,703
+Tak się pan nazywa?
+
+720
+00:43:39,786 --> 00:43:43,373
+Nie, naprawdę nazywam się
+
+721
+00:43:43,415 --> 00:43:45,083
+Baniuś.
+
+722
+00:43:45,959 --> 00:43:47,711
+Baniuś?
+
+723
+00:43:47,794 --> 00:43:50,547
+Co to za imię?
+
+724
+00:43:50,755 --> 00:43:53,341
+To starożytne imię delfinów.
+
+725
+00:43:53,550 --> 00:43:56,428
+Co delfin robi tutaj, w kosmosie?
+
+726
+00:43:56,594 --> 00:44:00,306
+Mój gatunek strzeże
+
+727
+00:44:00,390 --> 00:44:02,684
+galaktyki od...
+
+728
+00:44:04,561 --> 00:44:06,730
+10 000 lat!
+
+729
+00:44:07,564 --> 00:44:11,067
+Więc to pan nas chroni
+przed deszczem meteorów?
+
+730
+00:44:11,109 --> 00:44:12,235
+Tak, to ja.
+
+731
+00:44:12,444 --> 00:44:15,405
+Chętnie zrobię sobie przerwę na siusiu.
+
+732
+00:44:15,447 --> 00:44:18,158
+Zechcesz w międzyczasie rzucić okiem?
+
+733
+00:44:18,742 --> 00:44:22,328
+Oczywiście.
+Ale na co mam rzucić okiem?
+
+734
+00:44:31,963 --> 00:44:33,089
+Co robisz?
+
+735
+00:44:33,256 --> 00:44:34,591
+Pilnuję.
+
+736
+00:44:34,799 --> 00:44:36,259
+Nawet nie wiemy, czego pilnować.
+
+737
+00:44:36,468 --> 00:44:38,595
+Podzielmy się rolami.
+
+738
+00:44:38,678 --> 00:44:40,347
+Ty pilnuj kuli z wielką czerwoną plamą,
+
+739
+00:44:40,430 --> 00:44:42,265
+a ja popilnuję tej z pierścieniem.
+
+740
+00:44:42,390 --> 00:44:44,100
+Pracujmy zespołowo.
+
+741
+00:44:44,184 --> 00:44:45,518
+Dobra, moja się rusza.
+
+742
+00:44:45,769 --> 00:44:47,103
+Moja też.
+
+743
+00:44:48,104 --> 00:44:49,564
+Nie podoba mi się to.
+
+744
+00:44:49,731 --> 00:44:50,774
+Zawołamy Baniusia?
+
+745
+00:44:50,857 --> 00:44:53,443
+Niech się wysika.
+Wstrzymywał przez 10 000 lat.
+
+746
+00:44:58,198 --> 00:45:00,325
+To na pewno nie było planowane.
+
+747
+00:45:00,408 --> 00:45:02,077
+Szybko, Planktonie, posprzątajmy,
+
+748
+00:45:02,160 --> 00:45:04,287
+zanim Baniuś wróci!
+
+749
+00:45:09,292 --> 00:45:11,836
+Ulżyło mi.
+
+750
+00:45:12,087 --> 00:45:14,673
+Możecie odejść.
+
+751
+00:45:19,052 --> 00:45:21,763
+Co się stało z Saturnem i Jowiszem?
+
+752
+00:45:24,557 --> 00:45:26,726
+Mieliście pilnować...
+
+753
+00:45:33,483 --> 00:45:35,652
+Żeby się nie zderzyły!
+
+754
+00:45:35,735 --> 00:45:36,820
+Przepraszamy.
+
+755
+00:45:36,903 --> 00:45:39,197
+Teraz stracę pracę!
+
+756
+00:45:39,364 --> 00:45:42,867
+A wy stracicie życie.
+
+757
+00:45:50,500 --> 00:45:51,835
+Daj monetę!
+
+758
+00:46:17,193 --> 00:46:18,445
+Plankton?
+
+759
+00:46:18,945 --> 00:46:20,196
+SpongeBob!
+
+760
+00:46:22,032 --> 00:46:23,783
+Plankton?
+
+761
+00:46:23,950 --> 00:46:25,326
+SpongeBob?
+
+762
+00:46:25,368 --> 00:46:27,037
+Kim jesteście?
+
+763
+00:46:27,245 --> 00:46:29,039
+Jestem tobą z przyszłości.
+
+764
+00:46:29,122 --> 00:46:30,832
+A ja jestem nim z przyszłości.
+
+765
+00:46:30,999 --> 00:46:34,544
+Odbyłeś podróż w czasie,
+żeby mi pomóc? Wielkie dzięki.
+
+766
+00:46:34,586 --> 00:46:36,004
+Nie. On pomaga mnie.
+
+767
+00:46:36,046 --> 00:46:37,505
+Ale to wróg!
+
+768
+00:46:37,547 --> 00:46:39,883
+Kiedyś był wrogiem.
+Teraz tworzymy drużynę.
+
+769
+00:46:39,924 --> 00:46:41,885
+Co? Drezynę?
+
+770
+00:46:42,093 --> 00:46:43,720
+Drużynę!
+
+771
+00:46:43,887 --> 00:46:46,056
+Wystarczy, idź po przepis.
+
+772
+00:46:46,598 --> 00:46:48,141
+Co ze mnie wyrosło?
+
+773
+00:46:48,266 --> 00:46:49,559
+Już się robi, Planktonie.
+
+774
+00:46:51,603 --> 00:46:53,813
+Macie w przyszłości latające talerze?
+
+775
+00:46:53,897 --> 00:46:57,400
+Cofnęliśmy się tylko o dwa dni, głupku.
+
+776
+00:46:57,442 --> 00:46:58,985
+A odrzutowe plecaki?
+
+777
+00:47:00,820 --> 00:47:03,365
+-W przyszłości zakazali ubrań?
+-Nie!
+
+778
+00:47:03,406 --> 00:47:04,532
+To dlaczego jesteś goły?
+
+779
+00:47:04,574 --> 00:47:06,910
+Bo nie szyją ubrań w moim rozmiarze.
+
+780
+00:47:07,035 --> 00:47:08,078
+Stój spokojnie!
+
+781
+00:47:09,704 --> 00:47:13,249
+Skoro znasz przyszłość,
+powiedz, co teraz powiem.
+
+782
+00:47:13,291 --> 00:47:15,418
+-Coś głupiego?
+-Rety.
+
+783
+00:47:15,502 --> 00:47:17,295
+Hej, pospiesz się!
+
+784
+00:47:18,755 --> 00:47:20,382
+Niedobrze.
+
+785
+00:47:20,590 --> 00:47:22,425
+<i>Zaczynam odliczanie.</i>
+
+786
+00:47:22,467 --> 00:47:24,844
+Szybciej, SpongeBob,
+wynośmy się stąd!
+
+787
+00:47:26,137 --> 00:47:28,473
+-Mam!
+-W nogi!
+
+788
+00:47:38,024 --> 00:47:40,110
+To było niesamowite!
+
+789
+00:47:40,151 --> 00:47:42,570
+Więc taki jest efekt pracy zespołowej.
+
+790
+00:47:42,654 --> 00:47:45,323
+Przez tyle lat próbowałem cię zdobyć
+
+791
+00:47:45,407 --> 00:47:47,283
+i wreszcie mi się udało.
+
+792
+00:47:47,367 --> 00:47:49,744
+Nam się udało!
+
+793
+00:47:49,953 --> 00:47:52,914
+Mogłoby się zdawać,
+
+794
+00:47:53,081 --> 00:47:57,877
+że nasi bohaterowie osiągnęli to,
+co zamierzyli.
+
+795
+00:47:59,295 --> 00:48:00,797
+To jest dobre zakończenie.
+
+796
+00:48:00,839 --> 00:48:02,382
+Andy, zaśpiewajmy.
+
+797
+00:48:07,220 --> 00:48:08,513
+Och, nie.
+
+798
+00:48:09,139 --> 00:48:10,724
+To jeszcze nie koniec.
+
+799
+00:48:10,807 --> 00:48:13,852
+Chcesz powiedzieć,
+że może się skończyć jeszcze lepiej?
+
+800
+00:48:16,980 --> 00:48:18,273
+Otóż to!
+
+801
+00:48:19,357 --> 00:48:22,694
+Ziemia na horyzoncie!
+
+802
+00:48:25,530 --> 00:48:27,407
+Mamo, gdzie mój ręcznik?
+
+803
+00:48:29,367 --> 00:48:30,452
+Co?
+
+804
+00:48:34,164 --> 00:48:36,207
+-Rety, spójrz.
+-Co?
+
+805
+00:48:41,004 --> 00:48:43,506
+Z drogi, lenie!
+
+806
+00:48:43,715 --> 00:48:46,885
+Z drogi!
+
+807
+00:48:47,594 --> 00:48:48,803
+Wynocha!
+
+808
+00:48:49,888 --> 00:48:51,014
+Przepraszam!
+
+809
+00:48:51,181 --> 00:48:53,224
+-Za szybko!
+-Zwolnij!
+
+810
+00:48:53,516 --> 00:48:55,685
+-Z drogi!
+-Nie!
+
+811
+00:49:11,326 --> 00:49:12,869
+Tak!
+
+812
+00:49:12,952 --> 00:49:16,706
+Zmywajcie się, skrzydlate szczury!
+
+813
+00:49:16,873 --> 00:49:19,000
+Co? Dlaczego?
+
+814
+00:49:19,250 --> 00:49:24,714
+Nie możecie się kręcić
+po mojej restauracji.
+
+815
+00:49:24,923 --> 00:49:27,133
+Restauracji?
+Myślałem, że to statek piracki.
+
+816
+00:49:28,051 --> 00:49:30,178
+Racja.
+
+817
+00:49:30,220 --> 00:49:31,721
+Ale to także...
+
+818
+00:49:39,062 --> 00:49:40,063
+U BURGEROBRODEGO
+
+819
+00:49:40,563 --> 00:49:42,440
+ORYGINALNE BRODOBURGERY
+
+820
+00:49:44,901 --> 00:49:48,822
+Mój własny bufet!
+
+821
+00:49:48,905 --> 00:49:49,989
+Co?
+
+822
+00:49:50,573 --> 00:49:52,617
+Restauracja na kółkach.
+
+823
+00:49:52,826 --> 00:49:54,744
+-Przypomina śmieciarkę.
+-Nie!
+
+824
+00:49:54,911 --> 00:49:57,080
+Chcesz mi wystraszyć klientów?
+
+825
+00:49:57,288 --> 00:50:00,125
+Nie odfruniemy,
+póki nie poznamy zakończenia.
+
+826
+00:50:00,750 --> 00:50:02,085
+Nie ma sprawy.
+
+827
+00:50:02,293 --> 00:50:06,589
+Przekąsicie coś?
+
+828
+00:50:06,798 --> 00:50:08,550
+-Dla mnie zsiadłe mleko.
+-Dla mnie rybia głowa.
+
+829
+00:50:08,591 --> 00:50:10,051
+I frytki panierowane piaskiem.
+
+830
+00:50:10,301 --> 00:50:12,721
+Kto ma ochotę
+
+831
+00:50:12,762 --> 00:50:15,015
+na gorące skrzydełka?
+
+832
+00:50:15,223 --> 00:50:17,100
+Chwileczkę. Gdzie jest Ktoś?
+
+833
+00:50:17,892 --> 00:50:20,770
+Kto następny?
+
+834
+00:50:22,105 --> 00:50:23,440
+To szaleniec!
+
+835
+00:50:23,606 --> 00:50:24,649
+Uciekajmy stąd!
+
+836
+00:50:24,733 --> 00:50:26,609
+Jesteś stuknięty! Wariat!
+
+837
+00:50:29,904 --> 00:50:31,156
+Do widzenia, panie Kupko.
+
+838
+00:50:31,239 --> 00:50:32,532
+Należy mi się nagroda.
+
+839
+00:50:34,617 --> 00:50:36,327
+Cześć, panie Piracie.
+
+840
+00:50:36,411 --> 00:50:38,496
+Nie wchodziłbym tam na twoim miejscu.
+
+841
+00:50:42,125 --> 00:50:44,794
+Nie mogę latać bez piór.
+
+842
+00:50:47,172 --> 00:50:48,673
+Dokąd, koleś?
+
+843
+00:50:48,757 --> 00:50:50,342
+Przed siebie.
+
+844
+00:50:59,976 --> 00:51:01,019
+Skalmarze!
+
+845
+00:51:01,102 --> 00:51:03,146
+Nadal nie ma kraboburgerów.
+
+846
+00:51:05,523 --> 00:51:08,401
+Czy ktoś ma zdjęcie ketchupu?
+
+847
+00:51:09,235 --> 00:51:10,695
+Znalazłam wyjście!
+
+848
+00:51:12,781 --> 00:51:19,496
+Rozgniewaliśmy bogów kanapek
+i tylko ofiara może ich przebłagać!
+
+849
+00:51:19,704 --> 00:51:21,289
+Mówi rozsądnie.
+
+850
+00:51:21,498 --> 00:51:24,876
+Wkrótce skończy się nasze
+apokaliptyczne cierpienie
+
+851
+00:51:25,085 --> 00:51:29,005
+i kraboburgery będą spadać z nieba!
+
+852
+00:51:29,047 --> 00:51:31,508
+Z nieba? To niedobrze.
+
+853
+00:51:31,591 --> 00:51:33,343
+Na czym będę zarabiał?
+
+854
+00:51:33,510 --> 00:51:36,596
+Nie podoba ci się ten pomysł?
+To złożymy w ofierze ciebie!
+
+855
+00:51:36,846 --> 00:51:39,516
+Ofiara! Ofiara!
+
+856
+00:51:45,063 --> 00:51:47,691
+Nie powinno się składać ofiar
+
+857
+00:51:47,732 --> 00:51:49,818
+na czczo.
+
+858
+00:51:49,859 --> 00:51:51,903
+Kto ma ochotę na kraboburgera?
+
+859
+00:51:54,239 --> 00:51:56,950
+SpongeBob, odzyskałeś przepis?
+
+860
+00:51:57,033 --> 00:51:58,660
+To mój szczęśliwy dzień!
+
+861
+00:51:59,953 --> 00:52:01,371
+Tęskniłem za tobą.
+
+862
+00:52:01,621 --> 00:52:03,748
+Gdzie był? Gdzie go znalazłeś?
+
+863
+00:52:03,832 --> 00:52:05,792
+Plankton i ja zbudowaliśmy
+wehikuł czasu
+
+864
+00:52:05,875 --> 00:52:07,752
+ze starego automatu do zdjęć...
+
+865
+00:52:07,836 --> 00:52:09,295
+-Ser!
+-Patryku, nie!
+
+866
+00:52:10,672 --> 00:52:12,382
+Uspokójcie się.
+
+867
+00:52:12,507 --> 00:52:15,301
+Apokalipsa dobiega końca!
+
+868
+00:52:18,722 --> 00:52:20,724
+Czyż nie mam racji, SpongeBob?
+
+869
+00:52:21,725 --> 00:52:23,685
+"Eugeniuszu, najedz się
+
+870
+00:52:23,893 --> 00:52:27,564
+"podwodnymi bańkami.
+Kochający Plankton"?
+
+871
+00:52:29,149 --> 00:52:30,734
+Wziąłeś nie tę butelkę!
+
+872
+00:52:30,817 --> 00:52:32,485
+Przepraszam, panie Krabie!
+
+873
+00:52:32,569 --> 00:52:34,446
+Nie gniewam się.
+
+874
+00:52:34,529 --> 00:52:37,574
+Po prostu złożymy w ofierze was obu.
+
+875
+00:52:37,657 --> 00:52:40,744
+Przygotować ich do ofiary!
+
+876
+00:52:42,328 --> 00:52:45,790
+Przynoszę przesłanie
+z otchłani dziejów!
+
+877
+00:52:45,999 --> 00:52:47,000
+Co takiego, Patryku?
+
+878
+00:52:47,208 --> 00:52:48,585
+Uciekajcie!
+
+879
+00:52:51,838 --> 00:52:54,007
+Kalmarosaurus rex!
+
+880
+00:53:04,351 --> 00:53:05,518
+No cóż, Planktonie.
+
+881
+00:53:05,602 --> 00:53:07,937
+Chyba zawiedliśmy na całej linii.
+
+882
+00:53:08,021 --> 00:53:09,522
+"My"?
+
+883
+00:53:09,606 --> 00:53:13,943
+Nawet klęskę łatwiej znieść,
+gdy tworzy się drużynę.
+
+884
+00:53:14,027 --> 00:53:15,612
+To wszystko twoja wina!
+
+885
+00:53:17,864 --> 00:53:19,074
+Moja wina?
+
+886
+00:53:19,115 --> 00:53:21,868
+To ty zabrałeś niewłaściwą butelkę.
+
+887
+00:53:21,951 --> 00:53:23,620
+Nawet nie wiedziałem, że były dwie.
+
+888
+00:53:23,661 --> 00:53:25,747
+Oczywiście, że nie wiedziałeś!
+
+889
+00:53:25,830 --> 00:53:28,375
+Masz zamiast mózgu watę cukrową!
+
+890
+00:53:29,959 --> 00:53:31,961
+Mówię poważnie, naprawdę.
+
+891
+00:53:32,128 --> 00:53:34,297
+Nie spadłyby na nas te nieszczęścia,
+
+892
+00:53:34,339 --> 00:53:36,132
+gdybyś nie był tak samolubny i zły.
+
+893
+00:53:36,174 --> 00:53:37,967
+Byłem samolubny i zły,
+
+894
+00:53:38,051 --> 00:53:40,970
+póki wszystkiego nie popsułeś
+tą swoją drużyną!
+
+895
+00:53:41,304 --> 00:53:43,056
+Odwołaj to!
+
+896
+00:53:43,306 --> 00:53:46,393
+Jesteś najgorszym kumplem na świecie!
+
+897
+00:53:46,518 --> 00:53:47,519
+Nie!
+
+898
+00:53:58,154 --> 00:54:01,491
+O mój Neptunie,
+miesza odpady mokre i suche!
+
+899
+00:54:12,002 --> 00:54:13,670
+Spójrzcie na mnie.
+
+900
+00:54:14,462 --> 00:54:16,339
+Stałem się taki jak wy.
+
+901
+00:54:17,215 --> 00:54:18,675
+Okrutny.
+
+902
+00:54:18,842 --> 00:54:20,135
+Tchórzliwy.
+
+903
+00:54:20,343 --> 00:54:21,761
+Samolubny.
+
+904
+00:54:21,928 --> 00:54:25,015
+Wszyscy mieszkańcy miasta
+z porządnych obywateli
+
+905
+00:54:25,223 --> 00:54:27,684
+stali się dziwakami bez serca
+
+906
+00:54:27,767 --> 00:54:29,686
+zajętymi własną egzo...
+
+907
+00:54:29,728 --> 00:54:31,312
+Egze...
+
+908
+00:54:31,354 --> 00:54:33,732
+-"Egzystencją"?
+-Tak!
+
+909
+00:54:33,815 --> 00:54:36,651
+Odsunęliśmy się od siebie.
+
+910
+00:54:36,693 --> 00:54:39,029
+Każdy jest samotną wyspą,
+
+911
+00:54:39,112 --> 00:54:41,197
+skupioną na własnych sprawach.
+
+912
+00:54:41,281 --> 00:54:43,033
+W imię morskiego braterstwa
+
+913
+00:54:43,283 --> 00:54:45,535
+nie pozwolę, by tak dalej było!
+
+914
+00:54:49,956 --> 00:54:51,166
+Dlatego...
+
+915
+00:54:51,207 --> 00:54:55,754
+Jeśli powrót Bikini Dolnego
+do dawnej świetności wymaga ofiary...
+
+916
+00:54:57,756 --> 00:55:01,259
+Jestem gotów ją ponieść
+dla dobra ogółu!
+
+917
+00:55:12,312 --> 00:55:13,396
+Słyszeliście!
+
+918
+00:55:14,898 --> 00:55:16,232
+Ofiara!
+
+919
+00:55:16,566 --> 00:55:19,652
+Ofiara! Ofiara!
+
+920
+00:55:19,778 --> 00:55:21,154
+Ofiara!
+
+921
+00:55:21,237 --> 00:55:24,240
+Ofiara! Ofiara!
+
+922
+00:55:28,411 --> 00:55:32,374
+Ceremonię czas zacząć!
+
+923
+00:55:32,582 --> 00:55:34,584
+Burgery! Burgery!
+
+924
+00:55:35,669 --> 00:55:38,380
+A ja myślałem,
+że moi przyjaciele są prymitywni.
+
+925
+00:55:40,090 --> 00:55:41,675
+Nie płacz, chłopcze.
+
+926
+00:55:41,758 --> 00:55:44,928
+Wszystko będzie dobrze. Dla nas.
+
+927
+00:55:44,969 --> 00:55:47,597
+Nie płaczę, panie Krabie.
+
+928
+00:55:47,639 --> 00:55:49,099
+Czuję zapach kraboburgerów!
+
+929
+00:55:49,265 --> 00:55:52,602
+Tak trzymaj.
+Myśl o przyjemnych rzeczach.
+
+930
+00:55:52,644 --> 00:55:53,812
+Teraz!
+
+931
+00:55:53,978 --> 00:55:55,689
+Ofiara! Ofiara!
+
+932
+00:56:07,826 --> 00:56:09,327
+Chłopak ma rację.
+
+933
+00:56:09,953 --> 00:56:11,037
+Moja noga!
+
+934
+00:56:11,121 --> 00:56:12,455
+Ja też czuję zapach!
+
+935
+00:56:12,539 --> 00:56:14,791
+Dobra, SpongeBob, idź po nie!
+
+936
+00:56:14,916 --> 00:56:18,503
+Chwila. Może zdejmiemy kostiumy?
+
+937
+00:56:18,628 --> 00:56:20,296
+Znajdź te kraboburgery!
+
+938
+00:56:24,009 --> 00:56:25,301
+Wszyscy za mną!
+
+939
+00:56:25,343 --> 00:56:28,471
+Mam burgerową misję do spełnienia!
+
+940
+00:56:36,312 --> 00:56:38,481
+Zapach dochodzi stamtąd!
+
+941
+00:57:00,503 --> 00:57:03,840
+Chodźcie, to chyba za tą wydmą.
+
+942
+00:57:08,011 --> 00:57:10,013
+Jak mamy wyjść na powierzchnię?
+
+943
+00:57:10,096 --> 00:57:11,348
+Nie będziemy mogli oddychać!
+
+944
+00:57:11,389 --> 00:57:14,267
+Dobra, drugoplanowe postacie za mną.
+
+945
+00:57:14,684 --> 00:57:17,771
+-Pójdę z wami.
+-Nie ma mowy, Skalmarze.
+
+946
+00:57:17,854 --> 00:57:20,065
+Pójdziesz tam, z nami.
+
+947
+00:57:20,148 --> 00:57:21,608
+Stopy mnie bolą.
+
+948
+00:57:21,691 --> 00:57:23,234
+Patryku, ty nie masz stóp.
+
+949
+00:57:24,444 --> 00:57:27,030
+To niesprawiedliwe. Ty masz stopy.
+
+950
+00:57:27,072 --> 00:57:30,867
+Sandy ma stopy. I Skalmar ma stopy.
+
+951
+00:57:31,034 --> 00:57:32,660
+Ja mam nawet cztery.
+
+952
+00:57:36,873 --> 00:57:38,124
+Nie chodzi o stopy.
+
+953
+00:57:38,208 --> 00:57:39,668
+A o co?
+
+954
+00:57:39,709 --> 00:57:43,546
+O drużynę i o to,
+żeby się zawsze wspierać.
+
+955
+00:57:43,713 --> 00:57:46,049
+Dostaniemy się tam tylko wtedy,
+
+956
+00:57:46,091 --> 00:57:49,469
+gdy jakaś dobra wróżka
+pomoże nam oddychać powietrzem.
+
+957
+00:57:54,766 --> 00:57:57,602
+-Baniuś!
+-SpongeBob, znasz tego gościa?
+
+958
+00:57:57,686 --> 00:57:59,813
+Nie krzywdź nas.
+Przykro nam, że straciłeś pracę.
+
+959
+00:57:59,896 --> 00:58:02,107
+Miałbym was skrzywdzić?
+
+960
+00:58:02,190 --> 00:58:05,151
+Odbyłem podróż w czasie,
+żeby wam podziękować.
+
+961
+00:58:05,402 --> 00:58:08,196
+Tkwiłem w tej robocie od tysiącleci.
+
+962
+00:58:08,571 --> 00:58:10,657
+Potrzebowałem zmiany,
+
+963
+00:58:10,740 --> 00:58:13,618
+ale brakowało mi odwagi.
+
+964
+00:58:13,868 --> 00:58:16,663
+Cieszę się, że mogliśmy ci pomóc.
+
+965
+00:58:16,746 --> 00:58:19,416
+Teraz moja kolej.
+
+966
+00:58:19,499 --> 00:58:22,252
+Zawiozę was bezpiecznie
+na powierzchnię.
+
+967
+00:58:22,460 --> 00:58:24,045
+Natychmiast!
+
+968
+00:58:24,087 --> 00:58:27,465
+Wskakujcie do mojego pyszczka.
+
+969
+00:58:27,549 --> 00:58:28,967
+Chodźmy!
+
+970
+00:58:29,050 --> 00:58:32,262
+Nie ma mowy,
+żebym wlazł w paszczę delfina.
+
+971
+00:58:32,345 --> 00:58:34,848
+Tak. Chce mieć darmowy obiad.
+
+972
+00:58:35,056 --> 00:58:39,144
+Jeśli Baniuś miał odwagę
+porzucić pracę na końcu świata
+
+973
+00:58:39,227 --> 00:58:41,187
+i cofnąć się o tysiąclecia,
+by nam pomóc,
+
+974
+00:58:41,271 --> 00:58:43,231
+to my musimy się odważyć...
+
+975
+00:58:47,944 --> 00:58:50,113
+Nie sądziłem,
+że zostanę zjedzony przez delfina.
+
+976
+00:58:50,238 --> 00:58:51,406
+Gdyby chciał nas zjeść,
+
+977
+00:58:51,448 --> 00:58:53,783
+to by nas przeżuł i połknął.
+
+978
+00:58:53,825 --> 00:58:56,244
+Po prostu podróżujemy z klasą.
+
+979
+00:58:56,286 --> 00:58:58,621
+Mało tu miejsca na nogi.
+
+980
+00:58:58,705 --> 00:59:01,499
+Jak ktoś ma cztery stopy!
+
+981
+00:59:02,792 --> 00:59:06,171
+W tych sportowych skarpetkach
+można się udusić.
+
+982
+00:59:17,474 --> 00:59:20,143
+Co się dzieje? Czuję mrowienie!
+
+983
+00:59:28,902 --> 00:59:29,944
+Moja szyja!
+
+984
+00:59:32,155 --> 00:59:34,199
+Zrobiłem, co mogłem.
+
+985
+00:59:34,282 --> 00:59:36,493
+Reszta zależy od was.
+
+986
+00:59:36,534 --> 00:59:38,036
+Dziękujemy, Baniusiu!
+
+987
+00:59:38,244 --> 00:59:40,205
+Żegnaj, SpongeBob.
+
+988
+00:59:40,330 --> 00:59:41,831
+Żegnaj, Baniusiu.
+
+989
+00:59:41,915 --> 00:59:44,084
+Muszę uzupełnić...
+
+990
+00:59:46,294 --> 00:59:47,504
+Życiorys!
+
+991
+00:59:52,884 --> 00:59:55,720
+Świeże powietrze! Tęskniłam za tobą.
+
+992
+00:59:56,763 --> 00:59:58,431
+Okropnie tu śmierdzi!
+
+993
+00:59:58,765 --> 01:00:00,100
+Chodźcie.
+
+994
+01:00:00,183 --> 01:00:02,936
+Zdobędziemy przepis
+i uratujemy Bikini Dolne.
+
+995
+01:00:06,106 --> 01:00:08,191
+Co to za miejsce?
+
+996
+01:00:08,274 --> 01:00:11,277
+Mam złe przeczucia.
+
+997
+01:00:11,403 --> 01:00:14,823
+Może on wie, gdzie jesteśmy.
+Wygląda na mądrego.
+
+998
+01:00:14,864 --> 01:00:16,783
+Ma pięć głów.
+
+999
+01:00:16,866 --> 01:00:19,869
+Mógłby nam pan powiedzieć,
+gdzie znajdziemy kraboburgery?
+
+1000
+01:00:19,953 --> 01:00:22,622
+Hej, mój przyjaciel o coś pytał!
+
+1001
+01:00:23,415 --> 01:00:24,457
+Co?
+
+1002
+01:00:26,793 --> 01:00:28,920
+Gigantyczny, włochaty morświn!
+
+1003
+01:00:29,587 --> 01:00:30,922
+Wyrzucony na ląd!
+
+1004
+01:00:31,131 --> 01:00:34,342
+Cierpi, biedactwo.
+
+1005
+01:00:34,467 --> 01:00:35,635
+To nie są morświny.
+
+1006
+01:00:35,719 --> 01:00:37,721
+-Wszystkie ręce na pokład!
+-O rety.
+
+1007
+01:00:38,555 --> 01:00:40,598
+Musimy go zepchnąć do wody.
+
+1008
+01:00:40,724 --> 01:00:42,183
+Dalej! Pchajcie!
+
+1009
+01:00:42,225 --> 01:00:44,352
+-Hej!
+-Ho!
+
+1010
+01:00:45,270 --> 01:00:48,314
+-Hej!
+-Ho!
+
+1011
+01:00:48,398 --> 01:00:50,859
+-Hej!
+-Ho!
+
+1012
+01:00:51,067 --> 01:00:52,527
+Wytężcie wszystkie siły!
+
+1013
+01:00:52,569 --> 01:00:54,154
+Dalej, pchajcie!
+
+1014
+01:00:55,488 --> 01:00:59,242
+To chyba stąd dochodził
+ten okropny swąd.
+
+1015
+01:01:13,757 --> 01:01:15,300
+Przepraszam, gdzie w okolicy
+
+1016
+01:01:15,383 --> 01:01:16,968
+można kupić kraboburgery?
+
+1017
+01:01:17,218 --> 01:01:18,678
+Najeźdźcy!
+
+1018
+01:01:20,013 --> 01:01:22,724
+Wynocha z zamku mojej siostry!
+
+1019
+01:01:22,766 --> 01:01:23,850
+Mamo!
+
+1020
+01:01:39,074 --> 01:01:41,659
+Czekałem na ciebie całe życie!
+
+1021
+01:01:49,793 --> 01:01:51,836
+Och, Frank.
+
+1022
+01:01:51,920 --> 01:01:53,755
+Jakie to przyjemne.
+
+1023
+01:01:56,132 --> 01:01:57,133
+Okropność!
+
+1024
+01:01:59,886 --> 01:02:01,346
+Cześć, Skalmarku.
+
+1025
+01:02:02,472 --> 01:02:03,932
+Sandy!
+
+1026
+01:02:03,973 --> 01:02:05,350
+Kraboburgery!
+
+1027
+01:02:05,475 --> 01:02:06,851
+Chyba wiem, skąd dochodzi zapach!
+
+1028
+01:02:20,323 --> 01:02:23,743
+SpongeBob, nie uwierzysz,
+jakie tu mają wielkie lody.
+
+1029
+01:02:23,827 --> 01:02:26,079
+Ciekawe, co jeszcze mają wielkiego.
+
+1030
+01:02:26,162 --> 01:02:28,206
+Watę cukrową?
+
+1031
+01:02:32,335 --> 01:02:33,920
+Jeśli to zjesz,
+wystarczy ci energii,
+
+1032
+01:02:34,004 --> 01:02:35,672
+by obiec kulę ziemską!
+
+1033
+01:02:58,194 --> 01:03:00,780
+Długo ten cukier się metabolizuje?
+
+1034
+01:03:07,328 --> 01:03:09,748
+Hej, czuję zapach kraboburgerów!
+
+1035
+01:03:09,873 --> 01:03:11,791
+To chyba tędy!
+
+1036
+01:03:15,378 --> 01:03:16,796
+Nie zostawiaj mnie, Skalmarze!
+
+1037
+01:03:23,261 --> 01:03:26,222
+-Co teraz?
+-Nigdy tam nie dotrzemy!
+
+1038
+01:03:32,437 --> 01:03:34,189
+-Hej!
+-Ho!
+
+1039
+01:03:34,230 --> 01:03:35,857
+-Hej!
+-Ho!
+
+1040
+01:03:35,899 --> 01:03:37,192
+-Hej!
+-Ho!
+
+1041
+01:03:39,819 --> 01:03:40,904
+Dajemy radę!
+
+1042
+01:03:43,448 --> 01:03:44,574
+Uważaj, kolego!
+
+1043
+01:03:45,575 --> 01:03:46,910
+Trzymać się!
+
+1044
+01:03:48,912 --> 01:03:49,954
+SpongeBob!
+
+1045
+01:03:50,997 --> 01:03:52,457
+-Przechył!
+-Na sterburtę!
+
+1046
+01:04:02,092 --> 01:04:04,427
+-Co to...
+-Co?
+
+1047
+01:04:04,636 --> 01:04:07,430
+"Oryginalne kraboburgery"?
+
+1048
+01:04:09,265 --> 01:04:12,060
+Oryginalne kraboburgery
+są Pod Tłustym Krabem!
+
+1049
+01:04:12,102 --> 01:04:13,812
+Panie Krabie, co robić?
+
+1050
+01:04:13,895 --> 01:04:16,106
+8,99 $ za kraboburgera?
+
+1051
+01:04:16,147 --> 01:04:19,192
+Dlaczego sam na to nie wpadłem?
+
+1052
+01:04:31,287 --> 01:04:32,414
+Ty!
+
+1053
+01:04:34,541 --> 01:04:37,293
+Nie masz prawa smażyć burgerów!
+
+1054
+01:04:37,460 --> 01:04:39,045
+Tak, to moja robota!
+
+1055
+01:04:39,129 --> 01:04:40,338
+Skąd się tu wzięliście?
+
+1056
+01:04:41,131 --> 01:04:42,757
+Nie możecie oddychać powietrzem.
+
+1057
+01:04:42,966 --> 01:04:44,676
+Pewien zaczarowany delfin z przyszłości
+
+1058
+01:04:44,759 --> 01:04:46,761
+katapultował nas z fontanną wody i...
+
+1059
+01:04:46,803 --> 01:04:48,930
+Cisza!
+
+1060
+01:04:53,018 --> 01:04:54,477
+Tego nie ma w książce.
+
+1061
+01:04:54,644 --> 01:04:55,645
+W książce?
+
+1062
+01:04:55,770 --> 01:04:58,148
+Nie ma zaczarowanego delfina
+w tej powieści.
+
+1063
+01:04:58,314 --> 01:04:59,816
+W jakiej powieści?
+
+1064
+01:05:01,109 --> 01:05:06,031
+O tym, jak Bikini Dolne popadło w ruinę,
+
+1065
+01:05:06,114 --> 01:05:08,825
+gdy ukochany przepis na kraboburgery
+
+1066
+01:05:08,867 --> 01:05:11,369
+został skradziony przeze mnie,
+
+1067
+01:05:11,453 --> 01:05:12,996
+Burgerobrodego.
+
+1068
+01:05:14,205 --> 01:05:15,957
+Jak to się kończy?
+
+1069
+01:05:16,166 --> 01:05:18,376
+Zaraz sprawdzę.
+
+1070
+01:05:18,460 --> 01:05:20,754
+Wygląda na to,
+
+1071
+01:05:20,879 --> 01:05:24,716
+że Burgerobrody został najbogatszym
+
+1072
+01:05:24,799 --> 01:05:28,428
+właścicielem restauracji
+na stałym lądzie.
+
+1073
+01:05:28,678 --> 01:05:30,930
+Ale jak ukradłeś ten przepis?
+
+1074
+01:05:31,014 --> 01:05:32,057
+To było łatwe.
+
+1075
+01:05:32,849 --> 01:05:36,061
+Przerobiłem tę książkę i...
+
+1076
+01:05:36,144 --> 01:05:37,187
+Puf!
+
+1077
+01:05:37,979 --> 01:05:39,064
+Mój przepis!
+
+1078
+01:05:39,147 --> 01:05:41,232
+Jak to przerobiłeś?
+
+1079
+01:05:41,358 --> 01:05:42,567
+Uważajcie.
+
+1080
+01:05:44,027 --> 01:05:45,362
+"Dzielny
+
+1081
+01:05:45,528 --> 01:05:47,238
+"i przystojny
+
+1082
+01:05:47,322 --> 01:05:49,240
+"Burgerobrody
+
+1083
+01:05:49,324 --> 01:05:52,535
+"wygnał biednych bohaterów,
+
+1084
+01:05:52,577 --> 01:05:54,621
+"by wiedli nędzny żywot
+
+1085
+01:05:54,829 --> 01:05:56,998
+"na Wyspie Pelikanów!"
+
+1086
+01:06:00,293 --> 01:06:02,337
+"Koniec"!
+
+1087
+01:06:07,175 --> 01:06:08,968
+Niedobrze to wygląda.
+
+1088
+01:06:09,052 --> 01:06:10,845
+Ci goście są wygłodniali!
+
+1089
+01:06:13,056 --> 01:06:14,182
+Uwaga!
+
+1090
+01:06:19,604 --> 01:06:22,357
+Pięknie. Oto efekty pracy zespołowej.
+
+1091
+01:06:22,399 --> 01:06:25,151
+Tutaj! Zjedzcie Skalmara,
+ohydne bestie!
+
+1092
+01:06:25,318 --> 01:06:28,530
+Chcę do innej drużyny.
+Ta przegrała.
+
+1093
+01:06:28,571 --> 01:06:30,490
+Sandy, jesteś mądra.
+Masz jakiś pomysł?
+
+1094
+01:06:31,241 --> 01:06:35,745
+Straciłam cały rezon,
+gdy znalazłam tę starą kartkę!
+
+1095
+01:06:39,249 --> 01:06:41,084
+-Co?
+-Nadlatuje!
+
+1096
+01:06:48,591 --> 01:06:50,260
+Chwileczkę!
+
+1097
+01:06:52,721 --> 01:06:54,389
+Potrzebny nam atrament!
+
+1098
+01:06:55,056 --> 01:06:56,307
+Na szczęście Skalmar nie zawiódł.
+
+1099
+01:06:57,934 --> 01:06:59,769
+To się przytrafia,
+gdy jestem zdenerwowany.
+
+1100
+01:07:00,937 --> 01:07:03,064
+Cokolwiek zamierzasz, zrób to szybko!
+
+1101
+01:07:03,106 --> 01:07:04,691
+Krążą coraz bliżej!
+
+1102
+01:07:04,774 --> 01:07:06,234
+Napiszę nowe zakończenie.
+
+1103
+01:07:08,445 --> 01:07:10,071
+Będzie szczęśliwe?
+
+1104
+01:07:10,113 --> 01:07:12,615
+Nadprzyrodzone!
+
+1105
+01:07:21,624 --> 01:07:24,627
+Pokażę wam szczęśliwe zakończenie.
+
+1106
+01:07:42,562 --> 01:07:43,897
+Patryku!
+
+1107
+01:07:45,565 --> 01:07:47,067
+Mam stopy!
+
+1108
+01:07:47,984 --> 01:07:50,945
+Co to za ohyda?
+
+1109
+01:07:52,238 --> 01:07:55,867
+Sekretny przepis na wynos!
+
+1110
+01:07:58,995 --> 01:08:00,372
+Rozejść się, obywatele.
+
+1111
+01:08:00,455 --> 01:08:03,333
+Dojdzie tu do bezpardonowej walki.
+
+1112
+01:08:06,503 --> 01:08:09,506
+Skazałem was na wygnanie.
+
+1113
+01:08:09,631 --> 01:08:11,091
+Wielki Smęt?
+
+1114
+01:08:19,474 --> 01:08:21,309
+Moje biedne bębenki!
+
+1115
+01:08:23,186 --> 01:08:26,064
+Chwileczkę! Przestańcie!
+
+1116
+01:08:26,356 --> 01:08:28,942
+Zaczekajcie! Klienci!
+
+1117
+01:08:29,192 --> 01:08:31,194
+Nie odchodźcie, proszę!
+
+1118
+01:08:31,861 --> 01:08:33,446
+Panie Superniezdaro,
+
+1119
+01:08:34,030 --> 01:08:35,407
+skończ z nim.
+
+1120
+01:08:52,966 --> 01:08:56,052
+Powinieneś znaleźć
+lepsze źródło energii, Patryku.
+
+1121
+01:08:58,388 --> 01:09:00,890
+Ciekawe, czy teraz się wywiniecie!
+
+1122
+01:09:08,064 --> 01:09:10,900
+Do akcji wkracza Niebylebański!
+
+1123
+01:09:13,945 --> 01:09:15,363
+Nie!
+
+1124
+01:09:15,572 --> 01:09:16,948
+Moja książka!
+
+1125
+01:09:18,783 --> 01:09:22,078
+Dobra, chłopaki,
+pora na gest braterstwa!
+
+1126
+01:09:22,120 --> 01:09:23,538
+Tak!
+
+1127
+01:09:23,580 --> 01:09:25,206
+Och, tak.
+
+1128
+01:09:30,754 --> 01:09:34,007
+Dobra robota. Daliśmy radę!
+
+1129
+01:09:37,594 --> 01:09:38,595
+Co?
+
+1130
+01:09:38,636 --> 01:09:40,930
+Sandy? To ty?
+
+1131
+01:09:41,097 --> 01:09:44,017
+Nazywajcie mnie Gryzonią!
+
+1132
+01:09:45,560 --> 01:09:47,937
+Gdzie się podział pirat?
+
+1133
+01:09:58,948 --> 01:10:00,617
+Wygląda na to, że Burgerobrody
+
+1134
+01:10:00,742 --> 01:10:03,119
+zapomniał o pierwszej zasadzie
+smażalni na kółkach.
+
+1135
+01:10:03,787 --> 01:10:06,289
+Zawsze uszczelniaj miskę olejową.
+
+1136
+01:10:07,457 --> 01:10:09,751
+Jedźmy po śladach oleju!
+
+1137
+01:10:32,148 --> 01:10:33,692
+Tam żegluje.
+
+1138
+01:11:12,022 --> 01:11:13,773
+O nie, nic z tego.
+
+1139
+01:11:41,301 --> 01:11:42,594
+Chce złapać książkę!
+
+1140
+01:11:43,386 --> 01:11:45,764
+Sandy, użyj wiewiórczej mocy!
+
+1141
+01:11:45,847 --> 01:11:46,931
+Według rozkazu!
+
+1142
+01:11:52,896 --> 01:11:54,397
+Nie uda jej się!
+
+1143
+01:11:56,691 --> 01:11:57,859
+Wszyscy...
+
+1144
+01:11:57,942 --> 01:11:59,611
+Na sterburtę!
+
+1145
+01:12:16,586 --> 01:12:18,004
+Masz za swoje.
+
+1146
+01:12:31,559 --> 01:12:33,144
+Zbliż się.
+
+1147
+01:12:33,228 --> 01:12:34,396
+No chodź.
+
+1148
+01:12:35,105 --> 01:12:36,272
+Książka!
+
+1149
+01:12:36,314 --> 01:12:37,899
+Wielki Smęt!
+
+1150
+01:12:52,706 --> 01:12:56,584
+Dobra, Burgerobrody,
+przygotuj się na zmasowany atak.
+
+1151
+01:12:56,793 --> 01:13:00,296
+Wyszoruję tobą pachy.
+
+1152
+01:13:01,256 --> 01:13:02,465
+Nie rozumiem.
+
+1153
+01:13:02,507 --> 01:13:03,925
+Bo jesteś gąbką.
+
+1154
+01:13:04,050 --> 01:13:05,135
+Ba.
+
+1155
+01:13:06,636 --> 01:13:08,221
+Bierz go, Gryzonio!
+
+1156
+01:13:08,304 --> 01:13:09,973
+Zaraz go uprażę!
+
+1157
+01:13:10,015 --> 01:13:12,350
+PAN
+SZALONY ORZESZEK
+
+1158
+01:13:30,452 --> 01:13:32,704
+Niech to orzech świśnie!
+Nie mam amunicji.
+
+1159
+01:13:38,001 --> 01:13:41,838
+Sprawiedliwość wymierza się na zimno.
+
+1160
+01:13:47,886 --> 01:13:50,972
+Patryku, nigdy nie wątpiłem w twoją siłę!
+
+1161
+01:14:03,902 --> 01:14:06,571
+Nie wiedziałem,
+że śmierć jest taka słodka.
+
+1162
+01:14:08,365 --> 01:14:10,408
+Zwyciężyłem!
+
+1163
+01:14:10,617 --> 01:14:13,578
+Nie tak szybko, zasmarkany brodaczu!
+
+1164
+01:14:30,553 --> 01:14:32,305
+Mój przepis.
+
+1165
+01:14:33,723 --> 01:14:35,934
+Lubię kraby polane masłem.
+
+1166
+01:14:36,309 --> 01:14:37,519
+MASŁO
+
+1167
+01:14:37,644 --> 01:14:39,062
+Tylko nie masło!
+
+1168
+01:14:43,066 --> 01:14:44,526
+Panie Krabie!
+
+1169
+01:15:03,628 --> 01:15:05,588
+O tak!
+
+1170
+01:15:30,613 --> 01:15:32,115
+Jakie piękne!
+
+1171
+01:15:33,033 --> 01:15:34,075
+Patryku!
+
+1172
+01:15:50,508 --> 01:15:51,885
+Mam cię!
+
+1173
+01:15:52,093 --> 01:15:53,178
+SpongeBob!
+
+1174
+01:15:53,345 --> 01:15:55,972
+-Patryk?
+-Mów do mnie, przyjacielu.
+
+1175
+01:15:56,222 --> 01:15:58,767
+Widzę jasność.
+
+1176
+01:15:59,059 --> 01:16:00,643
+Teraz lepiej?
+
+1177
+01:16:00,894 --> 01:16:02,479
+Znacznie. Dziękuję.
+
+1178
+01:16:02,562 --> 01:16:05,648
+Pieczenie oczu jest niczym
+
+1179
+01:16:05,690 --> 01:16:09,486
+wobec pieczenia wstydu,
+że straciłem kraboburgery.
+
+1180
+01:16:09,527 --> 01:16:11,571
+Zawiodłem Bikini Dolne.
+
+1181
+01:16:11,738 --> 01:16:14,282
+Tak, SpongeBob, dałeś straszną plamę.
+
+1182
+01:16:14,532 --> 01:16:17,660
+Nie, Patryku, to wina całej drużyny.
+
+1183
+01:16:17,827 --> 01:16:20,163
+Nie. Tylko twoja.
+
+1184
+01:16:23,208 --> 01:16:25,835
+Dokąd się wybierasz?
+
+1185
+01:16:30,340 --> 01:16:34,260
+Spadaj, karzełku,
+zanim zrobisz sobie kuku.
+
+1186
+01:16:46,189 --> 01:16:47,399
+Plankton?
+
+1187
+01:16:47,899 --> 01:16:50,026
+Teraz raczej Sto-Ton!
+
+1188
+01:16:51,986 --> 01:16:54,739
+Spadaj stamtąd, karzełku,
+
+1189
+01:16:55,573 --> 01:16:57,826
+bo zrobię ci kuku.
+
+1190
+01:17:20,640 --> 01:17:23,685
+Wyłaź! Gdzie się schowałeś?
+
+1191
+01:17:25,937 --> 01:17:27,230
+Moje oko!
+
+1192
+01:17:40,243 --> 01:17:41,661
+Ucieka!
+
+1193
+01:17:44,748 --> 01:17:47,459
+Gotów na sto ton baniek?
+
+1194
+01:18:09,689 --> 01:18:11,608
+Przepis, proszę.
+
+1195
+01:18:11,775 --> 01:18:15,904
+Bądźmy partnerami.
+Zdobędziemy bogactwo i władzę!
+
+1196
+01:18:15,945 --> 01:18:17,113
+Nie, dziękuję.
+
+1197
+01:18:17,238 --> 01:18:19,282
+Już mam partnerów.
+
+1198
+01:18:43,181 --> 01:18:45,266
+Powtórzymy gest braterstwa?
+
+1199
+01:18:45,308 --> 01:18:46,559
+Oczywiście, Patryku.
+
+1200
+01:18:46,643 --> 01:18:49,604
+Ale tym razem będzie
+o jedną dłoń więcej.
+
+1201
+01:18:52,607 --> 01:18:53,775
+Plankton?
+
+1202
+01:18:57,320 --> 01:18:58,780
+Och, nie.
+
+1203
+01:19:02,784 --> 01:19:04,327
+Proszę, Krabie.
+
+1204
+01:19:05,537 --> 01:19:07,038
+Jest twoja.
+
+1205
+01:19:07,122 --> 01:19:10,458
+Nie zawiera kolejnego
+obraźliwego liściku?
+
+1206
+01:19:11,167 --> 01:19:12,961
+Nie, zmieniłem się.
+
+1207
+01:19:13,003 --> 01:19:15,463
+Już nie odwracam się
+od wszystkich plecami,
+
+1208
+01:19:15,505 --> 01:19:18,216
+żeby zdobyć przepis na wyłączność.
+
+1209
+01:19:18,299 --> 01:19:22,345
+Teraz wiem, że trzymając coś
+tylko w swoich rękach, byłbym...
+
+1210
+01:19:23,179 --> 01:19:24,264
+Samolubem.
+
+1211
+01:19:24,347 --> 01:19:27,517
+Zwłaszcza gdy tym czymś
+byłyby kraboburgery.
+
+1212
+01:19:27,642 --> 01:19:31,187
+No dobra,
+wracajmy do Bikini Dolnego i...
+
+1213
+01:19:31,229 --> 01:19:33,773
+Och, nie! Nie mam kartki!
+
+1214
+01:19:33,898 --> 01:19:34,941
+Nie!
+
+1215
+01:19:35,025 --> 01:19:36,526
+Musiała zostać na Wyspie Pelikanów!
+
+1216
+01:19:36,735 --> 01:19:40,030
+Nie martw się.
+Pomyślałem o wszystkim.
+
+1217
+01:19:40,321 --> 01:19:42,866
+SpongeBob, prowadź nas do domu.
+
+1218
+01:19:43,033 --> 01:19:44,075
+Dzięki.
+
+1219
+01:19:44,492 --> 01:19:46,536
+-Skalmarze!
+-O tak.
+
+1220
+01:19:46,619 --> 01:19:50,206
+Czas wrócić
+i otworzyć bar Pod Tłustym Krabem!
+
+1221
+01:19:50,373 --> 01:19:52,792
+Rozum ci się usmażył?
+
+1222
+01:19:52,876 --> 01:19:54,085
+Zostanę tu na zawsze!
+
+1223
+01:19:54,169 --> 01:19:57,505
+Spójrz na mnie. Jestem bogiem!
+
+1224
+01:19:57,547 --> 01:20:00,091
+Nie, Skalmarze, jesteś kasjerem.
+
+1225
+01:20:01,593 --> 01:20:04,763
+Chwileczkę! Co? Nie!
+
+1226
+01:20:08,183 --> 01:20:10,977
+Fajnie było, ale się skończyło.
+
+1227
+01:20:12,103 --> 01:20:13,480
+Nie smuć się, Skalmarze.
+
+1228
+01:20:13,730 --> 01:20:16,274
+Czeka cię niespodzianka.
+Pod koszulką.
+
+1229
+01:20:18,109 --> 01:20:20,236
+Kaloryfer twardy jak skała!
+
+1230
+01:20:20,570 --> 01:20:24,282
+Fajny z ciebie gość, SpongeBob.
+
+1231
+01:20:24,366 --> 01:20:25,367
+Daj spokój.
+
+1232
+01:20:25,408 --> 01:20:29,329
+Przepraszam!
+Zamawiamy 3000 kraboburgerów!
+
+1233
+01:20:32,791 --> 01:20:35,960
+Ten dźwięk oznacza,
+że wróciła szara codzienność.
+
+1234
+01:20:36,086 --> 01:20:38,630
+Kto zamawiał 3000 kraboburgerów?
+
+1235
+01:20:42,801 --> 01:20:44,594
+Pierwszy dla ciebie, Gacusiu.
+
+1236
+01:20:44,678 --> 01:20:46,638
+Z podwójnym majonezem, jak lubisz.
+
+1237
+01:20:49,974 --> 01:20:51,559
+Złapałem cię na oszustwie.
+
+1238
+01:20:51,685 --> 01:20:53,436
+Gacuś nie cierpi majonezu.
+
+1239
+01:20:53,520 --> 01:20:57,273
+Plankton! Znowu te stare sztuczki?
+
+1240
+01:20:57,315 --> 01:20:59,859
+Po prostu jestem wierny tradycji.
+
+1241
+01:20:59,943 --> 01:21:01,736
+Co ty na to, Gacusiu?
+
+1242
+01:21:02,779 --> 01:21:03,780
+Do stu krewetek.
+
+1243
+01:21:10,995 --> 01:21:13,581
+Do zobaczenia, kolego z drezyny!
+
+1244
+01:21:18,586 --> 01:21:20,797
+-Zaśpiewamy?
+-Tak!
+
+1245
+01:21:22,799 --> 01:21:25,010
+Proszę, panie Piracie.
+
+1246
+01:21:25,343 --> 01:21:27,303
+Och, Ktosiu...
+
+1247
+01:21:28,638 --> 01:21:31,474
+Jak mógłbym ci odmówić?
+
+1248
+01:21:33,643 --> 01:21:35,228
+Jesteście gotowi?
+
+1249
+01:21:35,311 --> 01:21:36,980
+-Tak, kapitanie!
+-Tak, kapitanie!
+
+1250
+01:21:37,022 --> 01:21:38,189
+Nie dosłyszałem.
+
+1251
+01:21:38,273 --> 01:21:42,652
+Mam piasek w uszach!
+
+1252
+01:21:42,694 --> 01:21:45,030
+-Tak, kapitanie!
+-Tak, kapitanie!
+
+1253
+01:21:48,533 --> 01:21:50,618
+<i>Kto anansowy pod wodą ma dom?</i>
+
+1254
+01:21:50,660 --> 01:21:52,412
+<i>SpongeBob Kanciastoporty!</i>
+
+1255
+01:21:52,662 --> 01:21:54,664
+<i>Gąbczasto-kanciasty i żółty jak on!</i>
+
+1256
+01:21:54,789 --> 01:21:56,541
+<i>SpongeBob Kanciastoporty!</i>
+
+1257
+01:21:56,666 --> 01:21:58,585
+<i>Kto grzywy i fale
+ze śmiechu chce gryźć?</i>
+
+1258
+01:21:58,710 --> 01:22:00,503
+<i>SpongeBob Kanciastoporty!</i>
+
+1259
+01:22:00,628 --> 01:22:02,714
+<i>Ten jak ryba w wodzie poczuje się dziś!</i>
+
+1260
+01:22:02,797 --> 01:22:04,674
+<i>-SpongeBob Kanciastoporty!
+-Gotowi?</i>
+
+1261
+01:22:04,799 --> 01:22:06,509
+<i>SpongeBob Kanciastoporty!</i>
+
+1262
+01:22:06,676 --> 01:22:08,511
+<i>SpongeBob Kanciastoporty!</i>
+
+1263
+01:22:08,720 --> 01:22:10,180
+<i>SpongeBob Kanciastoporty!</i>
+
+1264
+01:22:10,263 --> 01:22:11,723
+Cisza!
+
+1265
+01:22:13,516 --> 01:22:15,810
+Lubię tę piosenkę. Co się stało?
+
+1266
+01:22:15,852 --> 01:22:18,146
+Nie cierpię tej melodii,
+więc włączyłem inną.
+
+1267
+01:22:18,188 --> 01:22:19,564
+Ta dopiero jest okropna.
+
+1268
+01:22:19,647 --> 01:22:21,024
+Odkąd znasz się na...
+
+1269
+01:22:21,066 --> 01:22:22,359
+Dlaczego w ogóle z tobą gadam?
+
+1270
+01:22:22,567 --> 01:22:23,860
+<i>Jesteś nędznym stworem, ptaku</i>
+
+1271
+01:22:23,985 --> 01:22:25,487
+<i>Nic nie wiesz o dobrym smaku</i>
+
+1272
+01:22:25,570 --> 01:22:28,365
+<i>Żerujesz na stercie śmieci</i>
+
+1273
+01:22:28,448 --> 01:22:31,701
+<i>Ja podróżuję po wszechświecie
+Węzły rozsupłuję</i>
+
+1274
+01:22:31,826 --> 01:22:34,746
+<i>Burgery przed zgubą ratuję
+A nawet nieźle rapuję</i>
+
+1275
+01:22:34,829 --> 01:22:37,499
+<i>A ty okropnie fałszujesz
+Rytmu w ogóle nie czujesz</i>
+
+1276
+01:22:37,582 --> 01:22:39,209
+<i>Skończycie z tymi bzdurami</i>
+
+1277
+01:22:39,292 --> 01:22:40,502
+<i>Pod moimi rozkazami</i>
+
+1278
+01:22:40,585 --> 01:22:42,128
+<i>Bez trudu cię pokonam</i>
+
+1279
+01:22:42,212 --> 01:22:43,630
+<i>Będziesz jak oskubana wrona</i>
+
+1280
+01:22:43,713 --> 01:22:45,215
+<i>Przestań klapać dziobem i ozorem mleć</i>
+
+1281
+01:22:45,256 --> 01:22:46,257
+<i>Po prostu cicho siedź!</i>
+
+1282
+01:22:46,341 --> 01:22:47,467
+<i>Hola, śnięta rybo!</i>
+
+1283
+01:22:47,592 --> 01:22:49,552
+<i>-Licz się ze słowami
+-Nie zadzieraj z mewami</i>
+
+1284
+01:22:49,636 --> 01:22:51,846
+<i>Nie obrażaj nas, bo...</i>
+
+1285
+01:22:51,930 --> 01:22:54,849
+<i>Rześka bryza nas kołysze
+Obmywają morskie fale</i>
+
+1286
+01:22:54,974 --> 01:22:56,393
+<i>Radar w głowie, pierwsze słyszę</i>
+
+1287
+01:22:56,476 --> 01:22:58,228
+<i>A śpiewać nie umiesz wcale</i>
+
+1288
+01:22:58,395 --> 01:22:59,479
+<i>Czemu on jest taki nadęty?</i>
+
+1289
+01:22:59,562 --> 01:23:01,189
+<i>Bo jest starszy niż morskie odmęty</i>
+
+1290
+01:23:01,314 --> 01:23:02,524
+<i>Sam kosmosu pilnuje</i>
+
+1291
+01:23:02,607 --> 01:23:04,067
+<i>Tak, trochę go żałuję</i>
+
+1292
+01:23:04,192 --> 01:23:06,778
+Przestańcie!
+Przez was film będzie za długi!
+
+1293
+01:23:06,903 --> 01:23:08,113
+<i>Przenieś nas w przeszłość</i>
+
+1294
+01:23:08,196 --> 01:23:10,073
+<i>To dokończymy piosenkę</i>
+
+1295
+01:23:11,157 --> 01:23:12,534
+Niech wam będzie.
+
+1296
+01:23:12,742 --> 01:23:14,703
+<i>SpongeBob Kanciastoporty!</i>
+
+1297
+01:23:14,744 --> 01:23:16,621
+<i>SpongeBob Kanciastoporty!</i>
+
+1298
+01:23:16,705 --> 01:23:18,581
+<i>SpongeBob Kanciastoporty!</i>
+
+1299
+01:23:18,623 --> 01:23:22,502
+<i>SpongeBob Kanciastoporty!</i>
+
+1300
+01:23:28,008 --> 01:23:30,593
+Całkiem nieźle wyszło.
+
+1301
+01:23:38,643 --> 01:23:40,270
+Przepraszam!
+
+1302
+01:24:03,460 --> 01:24:06,796
+To stara choreografia.
+
+1303
+01:24:33,448 --> 01:24:35,158
+Wiecie, co by się przydało?
+
+1304
+01:24:35,200 --> 01:24:38,286
+Taniec interpretacyjny!
+
+1305
+01:32:05,692 --> 01:24:38,286
+Pamięci Ernesta Borgnine
+
