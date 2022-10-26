@@ -125,6 +125,7 @@ def vectorize_and_save(
         del encodings
 
 
+@st.cache
 def join_encoding(
     to_index: int,
     filename: str,
@@ -180,7 +181,7 @@ def main() -> None:
     # st.stop()
     
     dataset: List[Tuple[str, str]] = mkqa_dataset + dyk_dataset + poleval_dataset + sitcoms_dataset
-    st.text(f'Dataset size: {len(dataset)}')
+    st.text(f'Whole dataset size: {len(dataset)}')
     
     encoded_mkqa_data = join_encoding(
         to_index=10000,
@@ -218,14 +219,17 @@ def main() -> None:
         selected_datasets = st.multiselect(
             "select one or more dataset",
             ["mkqa", "dyk", "poleval", "sitcoms"],
-            )
+            ["mkqa", "dyk", "poleval", "sitcoms"],
+        )
         
     # default selected option (if none selected)
     if len(selected_datasets) == 0:
-        selected_datasets = ["mkqa"]
+        st.stop()
+        st.text('Select at least one dataset.')
         
     X = np.vstack([dataset_dict[name] for name in selected_datasets])
-
+    st.text(f'Chosen dataset size: {len(X)}')
+    
     y = [
         i for i in range(
             sum([dataset_dict[name].shape[0] for name in selected_datasets])
