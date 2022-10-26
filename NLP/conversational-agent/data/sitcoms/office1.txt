@@ -11,7 +11,7 @@ Twoja praca dobrze wygląda, Jim.
 3
 00:00:35,785 --> 00:00:37,912
 A co słychać w bibliotece?
-
+ 
 4
 00:00:37,996 --> 00:00:40,081
 Powiedziałem, że nie możesz zamknąć, więc...
