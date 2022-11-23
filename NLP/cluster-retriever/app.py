@@ -1,12 +1,15 @@
 import streamlit as st
 import pandas as pd
 from transformers import AutoTokenizer, AutoModel, BertForMaskedLM, BertTokenizer
-from sklearn.cluster import KMeans
+from sklearn.cluster import MiniBatchKMeans
 import tokenizers
 from typing import *
 import torch
 import time
 import numpy as np
+import plotly.express as px
+from sklearn.manifold import TSNE
+
 
 @st.cache(hash_funcs={tokenizers.Tokenizer: lambda x: x.__hash__})
 def load_herbert() -> Tuple[AutoTokenizer, AutoModel]:
@@ -67,6 +70,24 @@ def join_encoding(
         encoded_data = torch.cat([encoded_data, encoded])
     return encoded_data
 
+
+@st.cache
+def generate_kmeans(num_of_clusters: int, encoded_qa_data):
+    kmeans = MiniBatchKMeans(n_clusters=num_of_clusters).fit(encoded_qa_data.detach().numpy().astype('double'))
+    # get_clusters(num_of_clusters, encoded_qa_data.detach().numpy())
+    return kmeans
+
+
+@st.cache
+def calculate_tsne(data):
+    return TSNE(
+        n_components=2,
+        learning_rate='auto',
+        init = 'random',
+        perplexity = 3
+    ).fit_transform(data)
+
+
 #st.cache(suppress_st_warning=True)
 #def get_clusters(n_clusters : int, dataset : np.array) -> KMeans:
 #    return KMeans(n_clusters=n_clusters).fit(dataset.astype('double'))
@@ -92,6 +113,9 @@ def main() -> None:
     #    st.stop()
     q_a_dataset = pd.DataFrame(q_a_dataset)
 
+    with st.expander("Show questions"):
+        st.dataframe(q_a_dataset)
+
     encoded_qa_data = join_encoding(
             to_index=4000,
             filename="q_a/encoded" 
@@ -101,7 +125,16 @@ def main() -> None:
         
     num_of_clusters: int = st.slider('select number of clusters', 30, 800, 400)
     with st.spinner("Clustering..."):
-        kmeans = KMeans(n_clusters=num_of_clusters).fit(encoded_qa_data.detach().numpy().astype('double'))#get_clusters(num_of_clusters, encoded_qa_data.detach().numpy())
+        kmeans = generate_kmeans(num_of_clusters, encoded_qa_data)
+
+
+    X_embedded = calculate_tsne(data=encoded_qa_data.detach().numpy().astype('double'))
+    fig = px.scatter(
+        pd.DataFrame({"x": X_embedded[:, 0], "y": X_embedded[:, 1], "class": kmeans.labels_, "question": q_a_dataset[0]}),
+        x="x", y="y", color="class",
+        hover_data=["question"]
+    )
+    st.plotly_chart(fig)
 
     question: str = st.text_area('question:')
 
@@ -120,7 +153,7 @@ def main() -> None:
         group_elements_idx = cluster_map[cluster_map.cluster == predicted_cluster[0]]['data_index']
         group_elements = q_a_dataset.iloc[group_elements_idx]
 
-        st.write(f"cluster ID: {predicted_cluster[0]} | elements in this group: {group_elements.shape[0]} | randomly selected 5 pairs:")
+        st.write(f"cluster ID: {predicted_cluster[0]} |  | elements in this group: {group_elements.shape[0]} | randomly selected 5 pairs:")
         
         # randomly select n elements from group
         to_print_out = group_elements.sample(n=5)
