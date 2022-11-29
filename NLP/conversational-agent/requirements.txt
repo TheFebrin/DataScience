@@ -181,7 +181,7 @@ tornado @ file:///Users/runner/miniforge3/conda-bld/tornado_1656938068018/work
 tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1662214488106/work
 traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_1666115969632/work
 transformers==4.23.1
-Twisted==21.7.0
+Twisted==22.10.0
 txaio==21.2.1
 typing==3.7.4.3
 typing-inspect==0.7.1
