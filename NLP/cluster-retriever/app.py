@@ -12,6 +12,31 @@ import plotly.express as px
 import json
 from sklearn.manifold import TSNE
 
+from streamlit_chat import message
+import os
+import openai
+from google.cloud import translate
+
+
+
+class GPT3API:
+
+    def __init__(self, max_length_tokens: int) -> None:
+        openai.api_key = os.getenv("OPENAI_API_KEY")
+        self._max_length_tokens = max_length_tokens
+
+    def send_prompt(self, prompt: str) -> str:
+        response = openai.Completion.create(
+            engine="text-davinci-003",
+            prompt=prompt,
+            temperature = 0.7,
+            top_p=1,
+            max_tokens=self._max_length_tokens,
+            frequency_penalty=0,
+            presence_penalty=0
+        )
+        return response.choices[0].text
+    
 
 @st.cache(hash_funcs={tokenizers.Tokenizer: lambda x: x.__hash__})
 def load_herbert() -> Tuple[AutoTokenizer, AutoModel]:
@@ -128,14 +153,38 @@ def calculate_tsne(data):
 #def get_clusters(n_clusters : int, dataset : np.array) -> KMeans:
 #    return KMeans(n_clusters=n_clusters).fit(dataset.astype('double'))
 
-def main() -> None:
-    st.header('Clustering-based question answering agent for Polish')
+def get_gpt_answer(prompt: str, gpt3_api: GPT3API) -> str:
+    return gpt3_api.send_prompt(prompt=prompt)
 
-    st.subheader("Dataset Berant Factoid Question Answering - https://github.com/brmson/dataset-factoid-webquestions")
+
+def translate_sentence(text: str, from_lang: str = "en-US", to_lang: str = "pl"):
+
+    client = translate.TranslationServiceClient()
+    project_id="firestore-dev-nomagic-ai"
+    location = "global"
+    parent = f"projects/{project_id}/locations/{location}"
+
+    response = client.translate_text(
+        request={
+            "parent": parent,
+            "contents": [text],
+            "mime_type": "text/plain",
+            "source_language_code": from_lang,
+            "target_language_code": to_lang,
+        }
+    )
+    return response.translations[0].translated_text
+
+
+def main() -> None:
+    st.set_page_config(layout="wide")
+    st.header('Clustering-based question answering agent.')
+
+    with st.expander("Dataset Berant Factoid Question Answering"):
+        st.text("https://github.com/brmson/dataset-factoid-webquestions")
 
     st.text('Loading models ...')
     time_start = time.time()
-    #herbert_tokenizer, herbert_model = load_herbert()
     mpnet_model = load_mpnet()
     st.text(f'Model loaded in {time.time() - time_start:.2f}s')
 
@@ -158,9 +207,9 @@ def main() -> None:
         st.dataframe(berant_dataset)
 
     encoded_berant_data = join_encoding(
-            to_index=6700,
-            filename="berant/encoded" 
-        )
+        to_index=6700,
+        filename="berant/encoded" 
+    )
 
     st.text(f'Chosen dataset size: {len(encoded_berant_data)}')
     
@@ -169,16 +218,22 @@ def main() -> None:
         kmeans = generate_kmeans(num_of_clusters, encoded_berant_data)
 
 
-    #X_embedded = calculate_tsne(data=encoded_berant_data.astype('double'))
-    #fig = px.scatter(
-    #    pd.DataFrame({"x": X_embedded[:, 0], "y": X_embedded[:, 1], "class": kmeans.labels_, "question": berant_dataset[0]}),
-    #    x="x", y="y", color="class",
-    #    hover_data=["question"]
-    #)
-    #st.plotly_chart(fig)
+    X_embedded = calculate_tsne(data=encoded_berant_data.astype('double'))
+    fig = px.scatter(
+       pd.DataFrame({"x": X_embedded[:, 0], "y": X_embedded[:, 1], "class": kmeans.labels_, "question": berant_dataset[0]}),
+       x="x", y="y", color="class",
+       hover_data=["question"]
+    )
+    st.plotly_chart(fig)
 
+    language = st.selectbox('Choose language: ', ["English", "Polish"])
+    
     question: str = st.text_area('question:')
+    
     if question:
+        if language == "Polish":
+            question = translate_sentence(text=question, from_lang="en-US", to_lang="pl")
+    
         encoded_q = mpnet_model.encode(["CLS " + question + " SEP "])
         predicted_cluster = kmeans.predict(X = encoded_q.astype("double"))
 
@@ -191,7 +246,7 @@ def main() -> None:
         st.write(f"cluster ID: {predicted_cluster[0]} |  | elements in this group: {group_elements.shape[0]} | randomly selected 5 pairs:")
         
         # randomly select n elements from group
-        to_print_out = group_elements.sample(n=5)
+        to_print_out = group_elements.sample(n=3)
         for index, row in to_print_out.iterrows():
             with st.expander(f"{row[1]}"):
                 st.write(f"{row[0]}")
@@ -203,8 +258,64 @@ def main() -> None:
                 formatted_question += "Q: " + row[0] + "\n"
                 formatted_question += "A: " + row[1] + "\n\n"
             formatted_question += "Q: " + question + "\n"
+            formatted_question += "A: "
 
             st.text(formatted_question)
+            
+        
+    max_length_tokens: int = st.slider("Maximum number of tokens in answer: ", 1, 4000, 256)
+    gpt3_api = GPT3API(max_length_tokens=max_length_tokens)
+        
+    if 'q_asked' not in st.session_state:
+        st.session_state['q_asked'] = []
+        
+    if 'q_asked_embedding' not in st.session_state:
+        st.session_state['q_asked_embedding'] = []
+
+    if 'q_answered_gpt' not in st.session_state:
+        st.session_state['q_answered_gpt'] = []
+        
+    if 'q_answered_gpt_with_clustering' not in st.session_state:
+        st.session_state['q_answered_gpt_with_clustering'] = []
+        
+    if st.button("Ask questions to GPT-3"):
+        st.session_state.q_asked.append(question)
+        st.session_state.q_asked_embedding.append(formatted_question)
+        st.session_state.q_answered_gpt.append(
+            get_gpt_answer(prompt=question, gpt3_api=gpt3_api)
+        )
+        st.session_state.q_answered_gpt_with_clustering.append(
+            get_gpt_answer(prompt=formatted_question, gpt3_api=gpt3_api)
+        )
+    
+ 
+    left, right = st.columns(2)
+    
+    with left:
+        idx = 0
+        for q, a_gpt in zip(
+            reversed(st.session_state.q_asked), 
+            reversed(st.session_state.q_answered_gpt),
+        ):
+            if language == "Polish":
+                a_gpt = translate_sentence(text=a_gpt, from_lang="en-US", to_lang="pl")
+                
+            message(q, is_user=True, key=f"left_q_{idx}")
+            message(f"GPT-3:\n{a_gpt}", is_user=False, key=f"left_a_gpt_{idx}")
+            idx += 1
+            
+    with right:
+        idx = 0
+        for q, a_gpt_with_clustering in zip(
+            reversed(st.session_state.q_asked_embedding), 
+            reversed(st.session_state.q_answered_gpt_with_clustering)
+        ):
+            if language == "Polish":
+                a_gpt_with_clustering = translate_sentence(text=a_gpt_with_clustering, from_lang="en-US", to_lang="pl")
+                q = translate_sentence(text=q, from_lang="en-US", to_lang="pl")
+            message(q, is_user=True, key=f"right_q_{idx}")
+            message(f"GPT-3 with clusters:\n{a_gpt_with_clustering}", is_user=False, key=f"right_a_gpt_with_clustering_{idx}")
+            idx += 1
 
 if __name__ == '__main__':
     main()

@@ -11,8 +11,8 @@ import numpy as np
 import plotly.express as px
 from sklearn.manifold import TSNE
 from open_ai_api import GPT3API
-
-
+    
+    
 def read_q_a_dataset(file_name : str) -> List[Tuple[str, str]]:
     q_a_pairs = list()
     with open(file_name, "r") as f:
@@ -75,10 +75,6 @@ def get_gpt_answer(prompt: str, gpt3_api: GPT3API) -> str:
     return gpt3_api.send_prompt(prompt=prompt)
 
 
-def get_gpt_with_clustering_answer(prompt: str) -> str:
-    return "Yo"
-
-
 def main() -> None:
     # st.set_page_config(layout="wide")
     st.title('Clustering-based QA')
@@ -105,7 +101,7 @@ def main() -> None:
             get_gpt_answer(prompt=prompt, gpt3_api=gpt3_api)
         )
         st.session_state.q_answered_gpt_with_clustering.append(
-            get_gpt_with_clustering_answer(prompt=prompt)
+            get_gpt_answer(prompt=prompt, gpt3_api=gpt3_api)
         )
     
  
