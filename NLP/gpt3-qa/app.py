@@ -97,7 +97,7 @@ def main() -> None:
         st.session_state['q_answered_gpt_with_clustering'] = []
 
 
-    prompt = st.text_input("Question: ")
+    prompt = st.text_area("Question: ")
     
     if st.button("Ask question"):
         st.session_state.q_asked.append(prompt)
