@@ -38,19 +38,28 @@ def match(ans, cor):
 found_answers = []
 correct_answers = []
 
-for x in open('correct_answers.txt'):
+for x in open('correct_answers.txt', "r", encoding="utf-8"):
     x = x.strip()
     correct_answers.append(x.lower().split('\t'))
     
-for x in open('found_answers.txt'):    
+for x in open('found_answers.txt', "r", encoding="utf-8"):    
     x = x.strip()
     found_answers.append(x.lower())
     
 N = len(correct_answers)
 score = 0.0
 
+WA = []
 for ans, cor in zip(found_answers, correct_answers):    
     if match(ans, cor):
         score += 1
+    else:
+        WA.append((ans, cor))
+
+WA.sort(reverse=False)
+with open("WA.txt", "w", encoding='utf-8') as o:
+    for x, y in WA:
+        # print(f"{x} | {y}")
+        o.write(f"{x} | {y}\n")
         
 print ('TOTAL SCORE:', score / len(correct_answers))        
