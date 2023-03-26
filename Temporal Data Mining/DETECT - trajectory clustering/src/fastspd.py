@@ -23,10 +23,10 @@ class FastSPD:
         return next_points
 
     def compress(
-            self,
-            s: np.ndarray,
-            p_s: float = 0.001,
-            p_t: float = 1000
+        self,
+        s: np.ndarray,
+        p_s: float = 0.001,
+        p_t: float = 1000
     ) -> np.ndarray:
         """
         Attributes:
