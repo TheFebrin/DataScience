@@ -188,7 +188,7 @@ typing-inspect==0.7.1
 typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1665144421445/work
 tzdata==2021.4
 tzlocal==4.0.1
-ujson==4.2.0
+ujson==5.4.0
 urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1658789158161/work
 validators==0.20.0
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1600965781394/work
